@@ -164,7 +164,7 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 
 # 📝 Projects
 
-- *2022.6~2022.12*: A Large Scale Whitebait Dataset for Long-tailed Distribution Image Classification and Domain Adaptation, Department of Statistic and Information Science, Fu Jen Catholic University.
+- *2022.6~2022.12*: A Large Scale Whitebait Dataset for Long-tailed Distribution Image Classification and Domain Adaptation, Department of Statistic and Information Science, Fu Jen Catholic University. (Joint-project with Institute of Fisheries Science, National Taiwan University)
 - *2023.4~2023.6*: Social Media-Assisted Altered Audiovisual Recognition”, Department of Statistic, National Cheng Kung University, [Q112-P013].
 - *2023.4~2023.6*: Listen Watch and Read: Multimodal Information Authenticity Detection and Source Tracking”,  Ministry of Science and Technology and Research Center for Information Technology Innovation, Academia Sinica, [MOST109-2221-E-001-016].
 - *2023.2~2024.1* :Substrate Drilling Scatter Plot Defect Detection, Corporate R&D, Advanced Semiconductor Engineering Group (ASE).
