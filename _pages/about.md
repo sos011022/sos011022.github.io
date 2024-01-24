@@ -32,7 +32,7 @@ My research interests include:
   
 I am also exploring other computer vision-related fields which are interested to me, such as Multi-Object Tracking, 3D-scene Reconstruction. I am actively seeking a collaboration. 
 
-In addition, I also enjoying fishing, cooking, baking and traveling, welcome to talk about that with me.
+In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and traveling🌐, welcome to talk about that with me XD.
 
 # 🔥 News
 - *2023/11/25*: &nbsp;🎉🎉 I receive the Gold Medal Award in SAS Hackthon 2023.
@@ -162,7 +162,7 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 - *2023.06*:  **The Highest Prize (1/96)**, International Competition Scholarship, Fu Jen Catholic University.
 - *2021.09*:  Zhang Wang Wei Foundation Scholarship, Fu Jen Catholic University.
 
-# 📝 Projects
+# 💼 Projects
 
 - *2022.6~2022.12*: A Large Scale Whitebait Dataset for Long-tailed Distribution Image Classification and Domain Adaptation, Department of Statistic and Information Science, Fu Jen Catholic University. (Joint-project with Institute of Fisheries Science, National Taiwan University)
 - *2023.4~2023.6*: Social Media-Assisted Altered Audiovisual Recognition”, Department of Statistic, National Cheng Kung University, [Q112-P013].
