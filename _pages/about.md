@@ -49,6 +49,8 @@ In addition, I am also exploring other computer vision-related fields which are 
 
 **CSA-KD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Images Fusion**
 
+Submitted to IEEE Transactions on Image Processing
+
 Li-Wei Kang, Chih-Chung Hsu, Chih-Chien Ni, **Chia-Ming Lee**, and Chia-Cheng Chan
 
 **Keywords**
@@ -65,6 +67,8 @@ Li-Wei Kang, Chih-Chung Hsu, Chih-Chien Ni, **Chia-Ming Lee**, and Chia-Cheng Ch
 
 **Real-Time Compressed Sensing for Joint Hyperspectral Image Transmission and Restoration for CubeSat**
 
+Submitted to IEEE Transactions on Geoscience and Remote Sensing
+
 Chih-Chung Hsu, Chih-Yu Jian, Eng-Shen Tu, **Chia-Ming Lee** and Guan-Lin Chen
 
 **Keywords**
@@ -79,6 +83,8 @@ Chih-Chung Hsu, Chih-Yu Jian, Eng-Shen Tu, **Chia-Ming Lee** and Guan-Lin Chen
 <div class='paper-box-text' markdown="1">
 
 **MISS: Memory-efficient Instance Segmentation Framework By Visual Inductive Priors Flow Propagation**
+
+Submitted to  IEEE International Conference on Multimedia and Expo (ICME2024), Niagra Falls, Canada
 
 Chih-Chung Hsu, **Chia-Ming Lee**
 
@@ -96,12 +102,15 @@ Chih-Chung Hsu, **Chia-Ming Lee**
 
 **OCR is All you need: Importing Multi-Modality into Image-based Defect Detection System**
 
+Submitted to Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD2024), Taipei, Taiwan
+
 Chih-Chung Hsu, **Chia-Ming Lee**, Chun-Hung Sun and Kuang-Ming Wu 
 
 **Keywords**
 - Mulit-Modality Learning
 - Defect and Anomaly Detection
 - Optical Character Recognition
+- Data Mining
   
 </div>
 </div>
@@ -111,6 +120,8 @@ Chih-Chung Hsu, **Chia-Ming Lee**, Chun-Hung Sun and Kuang-Ming Wu
 <div class='paper-box-text' markdown="1">
 
 **Gradient Boost Tree Network based on Extensive Feature Analysis for Popularity Prediction of Social Posts**
+
+ACM International Conference on Multimedia (ACMMM2023), Ottawa, Canada
 
 Chih-Chung Hsu, **Chia-Ming Lee**, Xiu-Yu Hou and Chi-Han Tsai
 
@@ -127,6 +138,8 @@ Chih-Chung Hsu, **Chia-Ming Lee**, Xiu-Yu Hou and Chi-Han Tsai
 
 **Bag of Tricks of Hybrid Network for Covid-19 Detection of CT Scans**
 
+IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP2023), Rhodes Island, Greece
+
 Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 
 **Keywords**
@@ -137,7 +150,7 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 </div>
 
 # 🎖 Honors and Awards
-- *2023.01*:  **(?/8) Ministry of Education Presidential Education Award Candicate in NCKU**.
+- *2024.01*:  **(?/8) Ministry of Education Presidential Education Award Candicate in NCKU**.
 - *2024.01*:  6nd place, SeaDroneSee Multi-Object Tracking and Re-Identification Challenge, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Workshop on Maritime Computer Vision (MaCVi).
 - *2023.12*:  **2nd place (2/129)**, Embedded AI Object Detection Model Design, PAIR-LITEON Competition, ACM International Conference on Multimedia Asia (MMAsia).
 - *2023.11*:  **Gold Medal Award (1/150+)**, SAS Hackathon, [Reported by 6+ domsetic media].
