@@ -32,7 +32,7 @@ My research interests include:
   
 I am also exploring other computer vision-related fields which are interested to me, such as Multi-Object Tracking, 3D-scene Reconstruction. I am actively seeking a collaboration. 
 
-In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and traveling🌐, welcome to talk about that with me XD.
+In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and traveling🌐, welcome to talk about that with me if you have the same hobbyXD.
 
 # 🔥 News
 - *2023/11/25*: &nbsp;🎉🎉 I receive the Gold Medal Award in SAS Hackthon 2023.
