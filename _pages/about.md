@@ -30,7 +30,9 @@ My research interests include:
 - **Image/Video Processing and Data-Efficient Learning**
 - **Hyperspectral Image and Deep/Machine Learning**
   
-In addition, I am also exploring other computer vision-related fields which are interested to me, such as Multi-Object Tracking, 3D-Reconstruction.
+In addition, I am also exploring other computer vision-related fields which are interested to me, such as Multi-Object Tracking, 3D-Reconstruction. I am actively seeking a collaboration. 
+
+Besides, I also enjoying fishing, cooking, baking and traveling, welcome to talk about that to me.
 
 # 🔥 News
 - *2023/11/25*: &nbsp;🎉🎉 I receive the Gold Medal Award in SAS Hackthon 2023.
