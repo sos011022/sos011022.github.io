@@ -20,7 +20,7 @@ redirect_from:
 # 🧍‍♂️ Biography
 
 
-I am currently a M.S. student with the Advanced Computer Vision Laboratory (ACVLAB) at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am a passionate computer vision and deep learning researcher. I am working with Prof. Chih-Chung Hsu. I have participated several projects which are related to CV/DL during my master program.
+I am currently a M.S. student with the Advanced Computer Vision Laboratory (ACVLAB) at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am a passionate computer vision and deep learning researcher. I am working with Prof. Chih-Chung Hsu and Ming-Ching Chang (NYU). I have participated several projects which are related to CV/DL during my master program.
 
 I received a B.S. degree at the Department of Statistics and Information Science, Fu Jen Catholic University (FJCU), Taiwan, in 2023. I was advised by Prof. Hao-Chiang Shao.
 
