@@ -30,7 +30,7 @@ My research interests include:
 - **Image/Video Processing and Data-Efficient Learning**
 - **Hyperspectral Image and Deep/Machine Learning**
   
-I am also exploring other computer vision-related fields which are interested to me, such as Multi-Object Tracking, 3D-Reconstruction. I am actively seeking a collaboration. 
+I am also exploring other computer vision-related fields which are interested to me, such as Multi-Object Tracking, 3D-scene Reconstruction. I am actively seeking a collaboration. 
 
 In addition, I also enjoying fishing, cooking, baking and traveling, welcome to talk about that with me.
 
