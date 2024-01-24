@@ -44,7 +44,7 @@ In addition, I also enjoying fishing, cooking, baking and traveling, welcome to 
 - *2023/7/13*: &nbsp;🎉🎉 One paper is accepted by ACMMM 2023.
 - *2023/4/15*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2023.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TIP</div><img src='images/CSAKD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
