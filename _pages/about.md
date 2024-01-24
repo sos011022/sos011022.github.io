@@ -27,8 +27,8 @@ I received a B.S. degree at the Department of Statistics and Information Science
 My research interests include: 
 
 - **Computer Vision (Mainly focus on Low-level Vision)**
-- **Image/Video Processing and Data-Efficient Learning**
-- **Hyperspectral Image and Deep/Machine Learning**
+- **Image/Video Processing and Hyperspectral Image**
+- **Data-Efficient Learning and Deep/Machine Learning**
   
 I am also exploring other computer vision-related fields which are interested to me, such as Multi-Object Tracking, 3D-scene Reconstruction. I am actively seeking a collaboration. 
 
