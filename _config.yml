@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xinyuan Liao"
+title                    : "Chia-Ming Lee"
 description              : "Master Candidate & IEEE Student Member"
-repository               : "XinyuanLiao/xinyuanliao.github.io"
+repository               : "ming053l/ming053l.github.io"
 google_scholar_stats_use_cdn : False
 
 # google analytics
@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xinyuan Liao"
-  avatar           : "images/xinyuanliao.jpg"
-  bio              : "Northwestern Polytechnical University (NWPU)"
-  location         : "Xi'an, Shaanxi, China"
+  avatar           : "images/chiaminglee.png"
+  bio              : "National Cheng Kung University University (NCKU)"
+  location         : "Tainan, Taipei"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=IdfPU1UAAAAJ"
-  email            : "xnyuanliao@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Xinyuan-Liao-4"
+  googlescholar    : "https://scholar.google.com/citations?user=Yhh9EC8AAAAJ"
+  email            : "zuw408421476@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Taipei # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
