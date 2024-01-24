@@ -41,39 +41,96 @@ My research interests include
 - *2023/4/15*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2023.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/pfndm.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/CSAKD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Explainable Neural Dynamics Models for Motor Temperature Prediction](https://doi.org/10.36227/techrxiv.24555889)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ms140429/Explainable-Neural-Dynamics-Model)
+[CSA-KD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Images Fusion], Submitted to TIP.
 
-**Xinyuan Liao**, Shaowei Chen, Yunxiang Long, Shuai Zhao*
+Li-Wei Kang, Chih-Chung Hsu, Chih-Chien Ni, **Chia-Ming Lee**, and Chia-Cheng Chan
 
 **Keywords**
-- Neural Dynamics Models
-- Stability Constraints
-- State-Space Models
-
+- Hypersepctral Image
+- Image Fusion and Super-resolution
+- Knowledge Distillation
+  
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Engineering Informatics</div><img src='images/aei.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/RTCS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Remaining useful life with self-attention assisted physics-informed neural network](https://doi.org/10.1016/j.aei.2023.102195)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/XinyuanLiao/AttnPINN-for-RUL-Estimation)
+[Real-Time Compressed Sensing for Joint Hyperspectral Image Transmission and Restoration for CubeSat], Submitted to TGRS.
 
-**Xinyuan Liao**, Shaowei Chen, Pengfei Wen, Shuai Zhao*
+Chih-Chung Hsu, Chih-Yu Jian, Eng-Shen Tu, **Chia-Ming Lee** and Guan-Lin Chen
 
 **Keywords**
-- Physics-Informed Neural Networks
-- Attention Mechanism
-- Remaining Useful Life
-
+- Hypersepctral Image
+- Image Compression and Sensing
+- Image Restoration
 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/icme.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MISS: Memory-efficient Instance Segmentation Framework By Visual Inductive Priors Flow Propagation], Submitted to ICME2024, Niagara, Canada.
+
+Chih-Chung Hsu, **Chia-Ming Lee**
+
+**Keywords**
+- Instance Segmentation
+- Data-efficient Learning
+- Visual Inductive Priors
+  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/pakdd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OCR is All you need: Importing Multi-Modality into Image-based Defect Detection System], Submitted to PAKDD2024, Taipei, Taiwan.
+
+Chih-Chung Hsu, **Chia-Ming Lee**, Chun-Hung Sun and Kuang-Ming Wu 
+
+**Keywords**
+- Mulit-modality
+- Defect Detection
+- Optical Character Recognition
+  
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/acmmm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gradient Boost Tree Network based on Extensive Feature Analysis for Popularity Prediction of Social Posts], ACMMM2023, Ottawa, Canada.
+
+Chih-Chung Hsu, **Chia-Ming Lee**, Xiu-Yu Hou and Chi-Han Tsai
+
+**Keywords**
+- Mulit-modality
+- Social Media Forecast
+- Time Series Data
+  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/acmmm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bag of Tricks of Hybrid Network for Covid-19 Detection of CT Scans], ICASSP2023, Rhodes Island, Greece.
+
+Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
+
+**Keywords**
+- Image/Video Analysis
+- Medical Imaging Analysis
+  
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2023/1/6*: &nbsp;🎉🎉 (?/8) Ministry of Education Presidential Education Award Candicate in NCKU.
