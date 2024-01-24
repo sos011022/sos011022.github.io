@@ -42,60 +42,61 @@ My research interests include
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/CSAKD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TIP</div><img src='images/CSAKD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CSA-KD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Images Fusion], Submitted to TIP.
+**CSA-KD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Images Fusion**
 
 Li-Wei Kang, Chih-Chung Hsu, Chih-Chien Ni, **Chia-Ming Lee**, and Chia-Cheng Chan
 
 **Keywords**
 - Hypersepctral Image
-- Image Fusion and Super-resolution
+- Data Fusion
 - Knowledge Distillation
+- Super-resolution
   
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/RTCS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TGRS</div><img src='images/RTCS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real-Time Compressed Sensing for Joint Hyperspectral Image Transmission and Restoration for CubeSat], Submitted to TGRS.
+**Real-Time Compressed Sensing for Joint Hyperspectral Image Transmission and Restoration for CubeSat**
 
 Chih-Chung Hsu, Chih-Yu Jian, Eng-Shen Tu, **Chia-Ming Lee** and Guan-Lin Chen
 
 **Keywords**
 - Hypersepctral Image
-- Image Compression and Sensing
+- Compression and Sensing
 - Image Restoration
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/icme.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICME2024</div><img src='images/icme.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MISS: Memory-efficient Instance Segmentation Framework By Visual Inductive Priors Flow Propagation], Submitted to ICME2024, Niagara, Canada.
+**MISS: Memory-efficient Instance Segmentation Framework By Visual Inductive Priors Flow Propagation**
 
 Chih-Chung Hsu, **Chia-Ming Lee**
 
 **Keywords**
 - Instance Segmentation
-- Data-efficient Learning
+- Data-Efficient Learning
 - Visual Inductive Priors
   
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/pakdd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to PAKDD2024</div><img src='images/pakdd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OCR is All you need: Importing Multi-Modality into Image-based Defect Detection System], Submitted to PAKDD2024, Taipei, Taiwan.
+**OCR is All you need: Importing Multi-Modality into Image-based Defect Detection System**
 
 Chih-Chung Hsu, **Chia-Ming Lee**, Chun-Hung Sun and Kuang-Ming Wu 
 
 **Keywords**
-- Mulit-modality
+- Mulit-Modality
 - Defect Detection
 - Optical Character Recognition
   
@@ -103,31 +104,31 @@ Chih-Chung Hsu, **Chia-Ming Lee**, Chun-Hung Sun and Kuang-Ming Wu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/acmmm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM2023</div><img src='images/acmmm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Gradient Boost Tree Network based on Extensive Feature Analysis for Popularity Prediction of Social Posts], ACMMM2023, Ottawa, Canada.
+**Gradient Boost Tree Network based on Extensive Feature Analysis for Popularity Prediction of Social Posts**
 
 Chih-Chung Hsu, **Chia-Ming Lee**, Xiu-Yu Hou and Chi-Han Tsai
 
 **Keywords**
-- Mulit-modality
-- Social Media Forecast
-- Time Series Data
+- Mulit-Modality
+- Social Media Forecasting
+- Time-Series Data process
   
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/icassp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP2023</div><img src='images/icassp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bag of Tricks of Hybrid Network for Covid-19 Detection of CT Scans], ICASSP2023, Rhodes Island, Greece.
+**Bag of Tricks of Hybrid Network for Covid-19 Detection of CT Scans**
 
 Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 
 **Keywords**
 - Image/Video Analysis
-- Medical Imaging Analysis
+- Medical Image
   
 </div>
 </div>
