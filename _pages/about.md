@@ -25,10 +25,12 @@ I am currently a M.S. student with the Advanced Computer Vision Laboratory (ACVL
 I received his B.S. degree at the Department of Statistics and Information Science, Fu Jen Catholic University (FJCU), Taiwan, in 2023. I was advised by Prof. Hao-Chiang Shao.
 
 My research interests include: 
+
 - **Image/Video Processing and Data-Efficient Learning**
 - **Computer Vision (Mainly focus on Low-level Vision)**
 - **Hyperspectral Image and Deep/Machine Learning**
-
+  
+In addition, I am also exploring another computer vision-related fields which are interested to me, like 'Multi-Object Tracking, 3D-Reconstruction'.
 
 # 🔥 News
 - *2023/11/25*: &nbsp;🎉🎉 I receive the Gold Medal Award in SAS Hackthon 2023.
