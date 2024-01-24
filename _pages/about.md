@@ -18,12 +18,19 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ Biography
-I received a B.S. degree in Computer Science and Technology from Ocean University of China, Qingdao, China, in 2022. I am currently working toward an M.S. degree in Information and Telecommunication Engineering at the School of Electronics and Information, Northwestern Polytechnical University, Xi'an, China.
+
+I’m Chia-Ming Lee, a first year master's student at Institute of Data Science, National Cheng Kung University, advised by Prof. Chih-Chung Hsu. 
+
+I'm working in Advanced Computer Vision Lab (ACVLAB). I have participated several projects which are related to CV/DL during my master program.
+
+My research interests are computer vision, image/video processing, and deep/machine learning, which focus on low-level vision, hyperspectral image and data-efficient learning.
+
+I received a B.S. at Department of Statistical and Information Science, Fu-Jen Catholic University, Taiwan, advised by Prof. Hao-Chiang Shao.
 
 My research interests include 
-- **physics-informed machine learning**
-- **reliability engineering**
-- **condition monitoring**
+- **Image/Video Processing and Data-Efficient Learning**
+- **Computer Vision (Mainly focus on Low-level Vision)**
+- **Hyperspectral Image and Deep/Machine Learning**
 
 
 
