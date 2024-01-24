@@ -30,7 +30,7 @@ My research interests include:
 - **Computer Vision (Mainly focus on Low-level Vision)**
 - **Hyperspectral Image and Deep/Machine Learning**
   
-In addition, I am also exploring other computer vision-related fields which are interested to me, like Multi-Object Tracking, 3D-Reconstruction.
+In addition, I am also exploring other computer vision-related fields which are interested to me, such as Multi-Object Tracking, 3D-Reconstruction.
 
 # 🔥 News
 - *2023/11/25*: &nbsp;🎉🎉 I receive the Gold Medal Award in SAS Hackthon 2023.
