@@ -148,7 +148,7 @@ Chih-Chung Hsu, **Chia-Ming Lee**, Xiu-Yu Hou and Chi-Han Tsai
 **Keywords**
 - Mulit-Modality Learning
 - Social Media Forecasting
-- Time-Series Data process
+- Time-Series Data processing
   
 </div>
 </div>
