@@ -81,6 +81,24 @@ Chih-Chung Hsu, Chih-Yu Jian, Eng-Shen Tu, **Chia-Ming Lee** and Guan-Lin Chen
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TGRS</div><img src='images/QRCODE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**QRCODE : Quasi-residual Convex Deep Network for Fusing Misaligned Hyperspectral and Multispectral Images**
+
+Submitted to IEEE Transactions on Geoscience and Remote Sensing
+
+Chia-Hsiang Lin, Chih-Chung Hsu, Si-Sheng Young, Cheng-Ying Hsieh, Chia-Ming Lee Shen-Chieh Tai
+
+**Keywords**
+- Hypersepctral Image
+- Convex Optimazation
+- Image Alignment
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICME2024</div><img src='images/icme.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
