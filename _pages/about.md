@@ -22,9 +22,9 @@ redirect_from:
 
 I am currently a M.S. student with the Advanced Computer Vision Laboratory (ACVLAB) at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am fortunately working with Prof. Chih-Chung Hsu. I have participated several projects which are related to CV/DL during my master program.
 
-I received his B.S. degree at the Department of Statistics and Information Science, Fu Jen Catholic University (FJCU), Taiwan, in 2023. I advised by Prof. Hao-Chiang Shao.
+I received his B.S. degree at the Department of Statistics and Information Science, Fu Jen Catholic University (FJCU), Taiwan, in 2023. I was advised by Prof. Hao-Chiang Shao.
 
-My research interests include 
+My research interests include: 
 - **Image/Video Processing and Data-Efficient Learning**
 - **Computer Vision (Mainly focus on Low-level Vision)**
 - **Hyperspectral Image and Deep/Machine Learning**
@@ -135,22 +135,22 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 </div>
 
 # 🎖 Honors and Awards
-- *2023/1/6*:  **(?/8) Ministry of Education Presidential Education Award Candicate in NCKU**.
-- *2024/1/6*:  6nd place, SeaDroneSee Multi-Object Tracking and Re-Identification Challenge, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Workshop on Maritime Computer Vision (MaCVi).
-- *2023-12*:  **2nd place (2/129)**, Embedded AI Object Detection Model Design, PAIR-LITEON Competition, ACM International Conference on Multimedia Asia (MMAsia).
-- *2023-11*:  **Gold Medal Award (1/150+)**, SAS Hackathon, [Reported by 6+ domsetic media].
-- *2023-10*:  **Top Paper Award (3/700+)** , Socia Media Prediction Challenge, ACM International Conference on Multimedia (ACMMM).
-- *2023-10*:  **Jury Prize (1/176)**, Visual Inductive Priors Workshop on Instance Segmentation Challenge, IEEE/CVF International Conference on Computer Vision (ICCV).
-- *2023-6*:  **Winner (1/18)**, COV19 Detection Challenge, AI-enabled Medical Image Analysis Workshop in IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP).
-- *2023-6*:   **The Highest Prize (1/96)**, International Competition Scholarship, Fu Jen Catholic University.
-- *2021-9~2023-6*:  Zhang Wang Wei Foundation Scholarship, Fu Jen Catholic University.
+- *2023.01*:  **(?/8) Ministry of Education Presidential Education Award Candicate in NCKU**.
+- *2024.01*:  6nd place, SeaDroneSee Multi-Object Tracking and Re-Identification Challenge, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Workshop on Maritime Computer Vision (MaCVi).
+- *2023.12*:  **2nd place (2/129)**, Embedded AI Object Detection Model Design, PAIR-LITEON Competition, ACM International Conference on Multimedia Asia (MMAsia).
+- *2023.11*:  **Gold Medal Award (1/150+)**, SAS Hackathon, [Reported by 6+ domsetic media].
+- *2023.10*:  **Top Paper Award (3/700+)** , Socia Media Prediction Challenge, ACM International Conference on Multimedia (ACMMM).
+- *2023.10*:  **Jury Prize (1/176)**, Visual Inductive Priors Workshop on Instance Segmentation Challenge, IEEE/CVF International Conference on Computer Vision (ICCV).
+- *2023.06*:  **Winner (1/18)**, COV19 Detection Challenge, AI-enabled Medical Image Analysis Workshop in IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP).
+- *2023.06*:  **The Highest Prize (1/96)**, International Competition Scholarship, Fu Jen Catholic University.
+- *2021.09*:  Zhang Wang Wei Foundation Scholarship, Fu Jen Catholic University.
 
 # 📝 Projects
 
-- *2022-6~2022-12*: A Large Scale Whitebait Dataset for Long-tailed Distribution Image Classification and Domain Adaptation, Department of Statistic and Information Science, Fu Jen Catholic University.
-- *2023-4~2023-6*: Social Media-Assisted Altered Audiovisual Recognition”, Department of Statistic, National Cheng Kung University, [Q112-P013].
-- *2023-4~2023-6*: Listen Watch and Read: Multimodal Information Authenticity Detection and Source Tracking”,  Ministry of Science and Technology and Research Center for Information Technology Innovation, Academia Sinica, [MOST109-2221-E-001-016].
-- *2023-2~2024-1* :Substrate Drilling Scatter Plot Defect Detection, Corporate R&D, Advanced Semiconductor Engineering Group (ASE).
+- *2022.6~2022.12*: A Large Scale Whitebait Dataset for Long-tailed Distribution Image Classification and Domain Adaptation, Department of Statistic and Information Science, Fu Jen Catholic University.
+- *2023.4~2023.6*: Social Media-Assisted Altered Audiovisual Recognition”, Department of Statistic, National Cheng Kung University, [Q112-P013].
+- *2023.4~2023.6*: Listen Watch and Read: Multimodal Information Authenticity Detection and Source Tracking”,  Ministry of Science and Technology and Research Center for Information Technology Innovation, Academia Sinica, [MOST109-2221-E-001-016].
+- *2023.2~2024.1* :Substrate Drilling Scatter Plot Defect Detection, Corporate R&D, Advanced Semiconductor Engineering Group (ASE).
 
 # 📖 Educations
 - *2023.09 - (now)*, M.S. National Cheng Kung University (NCKU), the Institute of Data Science, Taiwan. 
