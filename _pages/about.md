@@ -118,7 +118,7 @@ Chih-Chung Hsu, **Chia-Ming Lee**, Xiu-Yu Hou and Chi-Han Tsai
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/acmmm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/icassp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bag of Tricks of Hybrid Network for Covid-19 Detection of CT Scans], ICASSP2023, Rhodes Island, Greece.
