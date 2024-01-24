@@ -19,13 +19,10 @@ redirect_from:
 
 # 🧍‍♂️ Biography
 
-I’m Chia-Ming Lee, a first year master's student at Institute of Data Science, National Cheng Kung University, advised by Prof. Chih-Chung Hsu. 
 
-I'm working in Advanced Computer Vision Lab (ACVLAB). I have participated several projects which are related to CV/DL during my master program.
+I am currently a M.S. student with the Advanced Computer Vision Laboratory (ACVLAB) at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I fortunately am working with Prof. Chih-Chung Hsu. I have participated several projects which are related to CV/DL during my master program.
 
-My research interests are computer vision, image/video processing, and deep/machine learning, which focus on low-level vision, hyperspectral image and data-efficient learning.
-
-I received a B.S. at Department of Statistical and Information Science, Fu-Jen Catholic University, Taiwan, advised by Prof. Hao-Chiang Shao.
+I received his B.S. degree at the Department of Statistics and Information Science, Fu Jen Catholic University (FJCU), Taiwan, in 2023. I worked with Prof. Hao-Chiang Shao.
 
 My research interests include 
 - **Image/Video Processing and Data-Efficient Learning**
@@ -33,12 +30,14 @@ My research interests include
 - **Hyperspectral Image and Deep/Machine Learning**
 
 
-
-
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Received the Student Travel Grant from the PCIM Europe 2024 Conference.
-- *2023.12*: &nbsp;🎉🎉 A paper is accepted by the PCIM Europe 2024 Conference. _(EI, Oral)_
-- *2023.09*: &nbsp;🎉🎉 A paper is accepted by the Advanced Engineering Informatics. _(SCI, Q1, IF=8.8)_
+- *2023/11/25*: &nbsp;🎉🎉 I receive the Gold Medal Award in SAS Hackthon 2023.
+- *2023/10/31*: &nbsp;🎉🎉 I receive the Top Paper Award in ACMMM 2023.
+- *2023/10/17*: &nbsp;🎉🎉 One paper is accepted by MMAsia 2023.
+- *2023/10/2*: &nbsp;🎉🎉 I receive the Jury Prize in ICCV 2023.
+- *2023/8/1*: &nbsp;🎉🎉 Two paper are accepted by CVGIP 2023.
+- *2023/7/13*: &nbsp;🎉🎉 One paper is accepted by ACMMM 2023.
+- *2023/4/15*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2023.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='images/pfndm.png' alt="sym" width="100%"></div></div>
