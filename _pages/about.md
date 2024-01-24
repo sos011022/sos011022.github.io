@@ -89,7 +89,7 @@ Chih-Chung Hsu, Chih-Yu Jian, Eng-Shen Tu, **Chia-Ming Lee** and Guan-Lin Chen
 
 Submitted to IEEE Transactions on Geoscience and Remote Sensing
 
-Chia-Hsiang Lin, Chih-Chung Hsu, Si-Sheng Young, Cheng-Ying Hsieh, Chia-Ming Lee Shen-Chieh Tai
+Chia-Hsiang Lin, Chih-Chung Hsu, Si-Sheng Young, Cheng-Ying Hsieh, **Chia-Ming Lee** and Shen-Chieh Tai
 
 **Keywords**
 - Hypersepctral Image
