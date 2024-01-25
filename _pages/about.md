@@ -109,7 +109,7 @@ Submitted to  IEEE International Conference on Multimedia and Expo (ICME2024), N
 Chih-Chung Hsu, **Chia-Ming Lee**
 
 **Keywords**
-- Instance Segmentation
+- 2D-Instance Segmentation
 - Data-Efficient Learning
 - Visual Inductive Priors
 - Domain Adaptation
