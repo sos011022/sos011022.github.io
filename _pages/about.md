@@ -46,12 +46,12 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TPAMI</div><img src='images/CSAKD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TGRS</div><img src='images/CSAKD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CSA-KD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Images Fusion**
 
-Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence
+Submitted to IEEE Transactions on Geoscience and Remote Sensing
 
 Li-Wei Kang, Chih-Chung Hsu, Chih-Chien Ni, **Chia-Ming Lee**, and Chia-Cheng Chan
 
