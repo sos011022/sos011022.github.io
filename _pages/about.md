@@ -117,7 +117,7 @@ Chih-Chung Hsu, **Chia-Ming Lee**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMAsia</div><img src='images/mmasia.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMAsia2023</div><img src='images/mmasia.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Adapting Object Detection to Fisheye Cameras: A Knowledge Distillation with Semi-Pseudo-Label Approach**
