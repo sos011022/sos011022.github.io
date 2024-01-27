@@ -53,11 +53,11 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 
 Submitted to IEEE Transactions on Geoscience and Remote Sensing
 
-Li-Wei Kang, Chih-Chung Hsu, Chih-Chien Ni, **Chia-Ming Lee**, and Chia-Cheng Chan
+Chih-Chung Hsu, Chih-Chien Ni, **Chia-Ming Lee** and Li-Wei Kang
 
 **Keywords**
 - Hypersepctral Image
-- Data Fusion Theory
+- Data Fusion
 - Knowledge Distillation
 - Image Super-Resolution
   
@@ -146,7 +146,6 @@ Chih-Chung Hsu, **Chia-Ming Lee**, Chun-Hung Sun and Kuang-Ming Wu
 **Keywords**
 - Mulit-Modality Learning
 - Defect and Anomaly Detection
-- Optical Character Recognition
 - Data Mining
   
 </div>
@@ -180,7 +179,6 @@ IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP2
 Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 
 **Keywords**
-- Image/Video Analysis
 - Image Processing
 - Medical Image
   
