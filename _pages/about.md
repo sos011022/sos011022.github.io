@@ -187,7 +187,7 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 
 # 🎖 Honors and Awards
 - *2024.01*:  **(?/8) Ministry of Education Presidential Education Award Candicate in NCKU**.
-- *2024.01*:  6nd place, SeaDroneSee Multi-Object Tracking and Re-Identification Challenge, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Workshop on Maritime Computer Vision (MaCVi).
+- *2024.01*:  6th place, SeaDroneSee Multi-Object Tracking and Re-Identification Challenge, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Workshop on Maritime Computer Vision (MaCVi).
 - *2023.12*:  **2nd place (2/129)**, Embedded AI Object Detection Model Design, PAIR-LITEON Competition, ACM International Conference on Multimedia Asia (MMAsia).
 - *2023.11*:  **Gold Medal Award (1/150+)**, SAS Hackathon, [Reported by 6+ domsetic media].
 - *2023.10*:  **Top Paper Award (3/700+)** , Socia Media Prediction Challenge, ACM International Conference on Multimedia (ACMMM).
@@ -199,8 +199,6 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 # 💼 Projects
 
 - *2023.2~2024.1* :Substrate Drilling Scatter Plot Defect Detection, Corporate R&D, Advanced Semiconductor Engineering Group (ASE).
-- *2023.4~2023.6*: Listen Watch and Read: Multimodal Information Authenticity Detection and Source Tracking”,  Ministry of Science and Technology and Research Center for Information Technology Innovation, Academia Sinica, [MOST109-2221-E-001-016].
-- *2023.4~2023.6*: Social Media-Assisted Altered Audiovisual Recognition”, Department of Statistic, National Cheng Kung University, [Q112-P013].
 - *2022.6~2022.12*: A Large Scale Whitebait Dataset for Long-tailed Distribution Image Classification and Domain Adaptation, Department of Statistic and Information Science, Fu Jen Catholic University. (Joint-project with Institute of Fisheries Science, National Taiwan University)
 
 # 📖 Educations
