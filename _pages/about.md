@@ -37,9 +37,9 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 # 🔥 News
 - *2023/11/25*: &nbsp;🎉🎉 I receive the Gold Medal Award in SAS Hackthon 2023.
 - *2023/11/23*: &nbsp;🎉🎉 I am the Ministry of Education Presidential Education Award (總統教育獎) Candicate in NCKU.
-- *2023/10/31*: &nbsp;🎉🎉 I receive the Top Paper Award in ACMMM 2023.
+- *2023/10/31*: &nbsp;🎉🎉 I receive the Top Paper Award in ACMMM 2023 (Social Media Prediction Challenge).
 - *2023/10/17*: &nbsp;🎉🎉 One paper is accepted by MMAsia 2023.
-- *2023/10/2*: &nbsp;🎉🎉 I receive the Jury Prize in ICCV 2023.
+- *2023/10/2*: &nbsp;🎉🎉 I receive the Jury Prize in ICCV 2023 (Visual Inducitve Priors Workshop).
 - *2023/8/1*: &nbsp;🎉🎉 Two paper are accepted by CVGIP 2023.
 - *2023/7/13*: &nbsp;🎉🎉 One paper is accepted by ACMMM 2023.
 - *2023/4/15*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2023.
