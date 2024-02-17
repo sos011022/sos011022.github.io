@@ -46,6 +46,24 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TGRS</div><img src='images/RTCS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Prompting for VLM-LLM to Augment Defect Classification System with the ASE Dataset**
+
+Submitted to  IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) Multimodal Learning and Applications Workshop
+
+Chih-Chung Hsu, **Chia-Ming Lee**
+
+**Keywords**
+- VLM-LLM
+- Defect Detection
+- Prompting Learning
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TGRS</div><img src='images/CSAKD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -63,6 +81,8 @@ Chih-Chung Hsu, Chih-Chien Ni, **Chia-Ming Lee** and Li-Wei Kang
   
 </div>
 </div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TGRS</div><img src='images/RTCS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
