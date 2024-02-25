@@ -46,7 +46,7 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPRW</div><img src='images/pfatsne2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPRW</div><img src='images/pfatsne3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Progressive Alignment with VLM-LLM Feature to Augment Defect Classification for the ASE Dataset**
