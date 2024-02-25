@@ -49,16 +49,17 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPRW</div><img src='images/pfvl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Prompting for VLM-LLM to Augment Defect Classification System with the ASE Dataset**
+**Progressive Alignment with VLM-LLM Feature to Augment Defect Classification for the ASE Dataset**
 
 Submitted to  IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) Multimodal Learning and Applications Workshop
 
 Chih-Chung Hsu, **Chia-Ming Lee**
 
 **Keywords**
-- VLM-LLM
-- Defect Detection
-- Prompting Learning
+- Feature Alignment
+- Vision-Language Model
+- Large-Lauguage Model
+- Defect Classification
 
 </div>
 </div>
