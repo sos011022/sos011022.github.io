@@ -46,12 +46,29 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPRW</div><img src='images/4SFL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**4SFL: A Closer Look at Spatial-Slice Features for COVID-19 Detection**
+
+Submitted to  IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) Domain adaptation, Explainability, Fairness in AI for Medical Image Analysis (DEF-AI-MIA) Workshop
+
+Chih-Chung Hsu, **Chia-Ming Lee**, Yang Fan Chiang, Chih-Yu Jiang, Shen-Chieh Tai, Chi-Han Tsai
+
+**Keywords**
+- Semi-supervised learning
+- COVID-19 Recognition
+- Image/Video Processing and Understanding
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPRW</div><img src='images/pfatsne3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Progressive Alignment with VLM-LLM Feature to Augment Defect Classification for the ASE Dataset**
 
-Submitted to  IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) Multimodal Learning and Applications Workshop
+Submitted to  IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) Multimodal Learning and Applications (MLA) Workshop
 
 Chih-Chung Hsu, **Chia-Ming Lee**
 
@@ -186,6 +203,7 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 
 **Keywords**
 - Image Processing
+- COVID-19 Detection
 - Medical Image
   
 </div>
