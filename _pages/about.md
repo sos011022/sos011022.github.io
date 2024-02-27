@@ -46,7 +46,7 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPRW</div><img src='images/DRCT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPRW</div><img src='images/DRCT2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DRCT: Dense-Residual Connected Transformer for Single Image Super-Resolution**
