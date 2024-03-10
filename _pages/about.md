@@ -46,7 +46,7 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 - *2023/4/15*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2023.
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP</div><img src='images/ICIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP2024</div><img src='images/ICIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Divide and Grounding: Enhanced Detection and Segmentation of Bleeding Areas With Two-Stage Model**
