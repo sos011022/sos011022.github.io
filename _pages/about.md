@@ -35,6 +35,7 @@ I am also exploring other computer vision-related fields which are interested to
 In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and traveling🌐, welcome to talk about that with me if you have the same hobbyXD.
 
 # 🔥 News
+- *2024/03/06*: &nbsp;🎉🎉 I receive the 2nd Position in the Auto-WCEBleedGen Challenge Version V2, in conjunted with ICIP 2023.
 - *2023/11/25*: &nbsp;🎉🎉 I receive the Gold Medal Award in SAS Hackthon 2023.
 - *2023/11/23*: &nbsp;🎉🎉 I am the Ministry of Education Presidential Education Award (總統教育獎) Candicate in NCKU.
 - *2023/10/31*: &nbsp;🎉🎉 I receive the Top Paper Award in ACMMM 2023 (Social Media Prediction Challenge).
@@ -45,11 +46,27 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 - *2023/4/15*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2023.
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP</div><img src='images/ICIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Divide and Grounding: Enhanced Detection and Segmentation of Bleeding Areas With Two-Stage Model**
+
+IEEE International Conference on Image Processing (ICIP2024)
+
+Chih-Chung Hsu, Yu-Fan Lin, **Chia-Ming Lee**, Bo-Cheng Chiu
+
+**Keywords**
+- Multi-task Learning
+- Medical Image
+
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPRW</div><img src='images/DRCT2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DRCT: Dense-Residual Connected Transformer for Single Image Super-Resolution**
+**DRCT: Dense-Residual Connected Transformer for Image Super-Resolution**
 
 Submitted to  IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Trends in Image Restoration and Enhancement (NTIRE) Workshop
 
@@ -226,6 +243,7 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 </div>
 
 # 🎖 Honors and Awards
+- *2024.03*:  **2nd place (2/1200+)**, Auto-WCEBleedGen Challenge Version V2, IEEE International Conference on Image Processing (ICIP).
 - *2024.01*:  **(?/8) Ministry of Education Presidential Education Award Candicate in NCKU**.
 - *2024.01*:  6th place, SeaDroneSee Multi-Object Tracking and Re-Identification Challenge, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Workshop on Maritime Computer Vision (MaCVi).
 - *2023.12*:  **2nd place (2/129)**, Embedded AI Object Detection Model Design, PAIR-LITEON Competition, ACM International Conference on Multimedia Asia (MMAsia).
