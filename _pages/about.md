@@ -47,7 +47,7 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TIP</div><img src='images/ICIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TIP</div><img src='images/SEFL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SELF: Sparse EntangLed Feature Learning for Robust DeepFake Video Detection in Noisy Face Sequence**
