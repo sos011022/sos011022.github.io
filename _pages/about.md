@@ -46,6 +46,27 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 - *2023/4/15*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2023.
 
 # 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TIP</div><img src='images/ICIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SELF: Sparse EntangLed Feature Learning for Robust DeepFake Video Detection in Noisy Face Sequence**
+
+Submitted to IEEE Transactions on Image Processing
+
+Chih-Chung Hsu, Shao-Ning Chen, Mei-Hsuan Wu, Yi-Fang Wang, **Chia-Ming Lee**, Yi-Shiuan Chou
+
+**Keywords**
+- DeepFake
+- Face Detection
+- Adversarial Attack
+- Forgery Detection
+
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP2024</div><img src='images/ICIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
