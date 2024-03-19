@@ -83,29 +83,12 @@ Chih-Chung Hsu, Yu-Fan Lin, **Chia-Ming Lee**, Bo-Cheng Chiu
 - Medical Image
 
 
-</div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPRW</div><img src='images/DRCT2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**DRCT: Dense-Residual Connected Transformer for Image Super-Resolution**
-
-Submitted to  IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Trends in Image Restoration and Enhancement (NTIRE) Workshop
-
-Chih-Chung Hsu, **Chia-Ming Lee**
-
-**Keywords**
-- Image Super-Resolution
-
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPRW</div><img src='images/4SFL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**4SFL: A Closer Look at Spatial-Slice Features for COVID-19 Detection**
+**A Closer Look at Spatial-Slice Features for COVID-19 Detection**
 
 Submitted to  IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR2024), Domain adaptation, Explainability, Fairness in AI for Medical Image Analysis (DEF-AI-MIA) Workshop
 
@@ -158,7 +141,7 @@ Chih-Chung Hsu, Chih-Chien Ni, **Chia-Ming Lee** and Li-Wei Kang
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS</div><img src='images/RTCS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/RTCS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Real-Time Compressed Sensing for Joint Hyperspectral Image Transmission and Restoration for CubeSat**
