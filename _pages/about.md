@@ -82,7 +82,8 @@ Chih-Chung Hsu, Yu-Fan Lin, **Chia-Ming Lee**, Bo-Cheng Chiu
 - Multi-task Learning
 - Medical Image
 
-
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPRW</div><img src='images/4SFL.png' alt="sym" width="100%"></div></div>
@@ -141,7 +142,7 @@ Chih-Chung Hsu, Chih-Chien Ni, **Chia-Ming Lee** and Li-Wei Kang
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/RTCS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS2024</div><img src='images/RTCS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Real-Time Compressed Sensing for Joint Hyperspectral Image Transmission and Restoration for CubeSat**
