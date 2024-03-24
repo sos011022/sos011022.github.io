@@ -35,8 +35,8 @@ I am also exploring other computer vision-related fields which are interested to
 In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and traveling🌐, welcome to talk about that with me if you have the same hobbyXD.
 
 # 🔥 News
-
-- *2024/03/13*: &nbsp;🎉🎉 One paper is accepted by TGRS.
+- *2024/03/23*: &nbsp;🎉🎉 I receive the 3rd place in COVID-19 detection Challange, in conjuncted with CVPR 2024 (DEF-AI-MIA workshop). 
+- *2024/03/13*: &nbsp;🎉🎉 One paper is accepted by TGRS (IF: 8.2, Rank 29/1409=2% in Electrical and Electronic Engineering).
 - *2024/03/06*: &nbsp;🎉🎉 I receive the 2nd Position in the Auto-WCEBleedGen Challenge Version V2, in conjunted with ICIP 2024.
 - *2023/11/25*: &nbsp;🎉🎉 I receive the Gold Medal Award in SAS Hackthon 2023.
 - *2023/11/23*: &nbsp;🎉🎉 I am the Ministry of Education Presidential Education Award (總統教育獎) Candicate in NCKU.
@@ -250,6 +250,8 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 </div>
 
 # 🎖 Honors and Awards
+- *2024.03*:  5th place, NTIRE 2024 Image Super-Resolution (x4), IEEE Computer Vision & Pattern Recognition (CVPR). 
+- *2024.03*:  **3rd place (3/21)**, COVID-19 Detection Challange, Domain adaptation, Explainability and Fairness in AI for Medical Image Analysis, IEEE Computer Vision & Pattern Recognition (CVPR). 
 - *2024.03*:  **2nd place (2/1200+)**, Auto-WCEBleedGen Challenge Version V2, IEEE International Conference on Image Processing (ICIP).
 - *2024.01*:  **(?/8) Ministry of Education Presidential Education Award Candicate in NCKU**.
 - *2024.01*:  6th place, SeaDroneSee Multi-Object Tracking and Re-Identification Challenge, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Workshop on Maritime Computer Vision (MaCVi).
