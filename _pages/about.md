@@ -54,7 +54,7 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 
 **DRCT: Image Super-Resolution away from Information Bottleneck**
 
-Submitted to IEEE Transactions on Image Processing
+Submitted to  IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Trends in Image Restoration and Enhancement (NTIRE) Workshop
 
 Chih-Chung Hsu, **Chia-Ming Lee**, Yi-Shiuan Chou
 
@@ -72,7 +72,7 @@ Chih-Chung Hsu, **Chia-Ming Lee**, Yi-Shiuan Chou
 
 **SELF: Sparse EntangLed Feature Learning for Robust DeepFake Video Detection in Noisy Face Sequence**
 
-Submitted to IEEE Transactions on Image Processing
+Submitted to  IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR2024), Domain adaptation, Explainability, Fairness in AI for Medical Image Analysis (DEF-AI-MIA) Workshop
 
 Chih-Chung Hsu, Shao-Ning Chen, Mei-Hsuan Wu, Yi-Fang Wang, **Chia-Ming Lee**, Yi-Shiuan Chou
 
@@ -165,7 +165,7 @@ Chih-Chung Hsu, Chih-Chien Ni, **Chia-Ming Lee** and Li-Wei Kang
 
 **Real-Time Compressed Sensing for Joint Hyperspectral Image Transmission and Restoration for CubeSat**
 
-Submitted to IEEE Transactions on Geoscience and Remote Sensing
+IEEE Transactions on Geoscience and Remote Sensing (IF: 8.2, Rank 29/1409=2% in Electrical and Electronic Engineering)
 
 Chih-Chung Hsu, Chih-Yu Jian, Eng-Shen Tu, **Chia-Ming Lee** and Guan-Lin Chen
 
@@ -185,7 +185,7 @@ Chih-Chung Hsu, Chih-Yu Jian, Eng-Shen Tu, **Chia-Ming Lee** and Guan-Lin Chen
 
 **MISS: Memory-efficient Instance Segmentation Framework By Visual Inductive Priors Flow Propagation**
 
-Submitted to  IEEE International Conference on Multimedia and Expo (ICME2024), Niagra Falls, Canada
+Submitted to IEEE International Conference on Multimedia and Expo (ICME2024), Niagra Falls, Canada
 
 Chih-Chung Hsu, **Chia-Ming Lee**
 
