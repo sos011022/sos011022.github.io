@@ -296,7 +296,7 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 
 - *2024.05*, Reflections on Academic Competitions and Challenges, National Taiwan University of Science and Technology (NTUST), Taiwan.
 
-- * Conference paper Reviewer*, NTIRE-CVPR2024
+- *Conference paper Reviewer*, CVPR2024
 
 # 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
