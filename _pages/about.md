@@ -49,7 +49,7 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPRW</div><img src='images/DRCT2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPRW</div><img src='images/DRCT9.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DRCT: Saving Image Super-Resolution away from Information Bottleneck**
@@ -90,7 +90,7 @@ Chih-Chung Hsu, Shao-Ning Chen, Mei-Hsuan Wu, Yi-Fang Wang, **Chia-Ming Lee**, Y
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP2024</div><img src='images/ICIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Divide and Grounding: Enhanced Detection and Segmentation of Bleeding Areas With Two-Stage Model**
+**Divide and Conquer: Grounding the Bleeding Areas with Two-Stage Model**
 
 IEEE International Conference on Image Processing (ICIP2024)
 
@@ -290,7 +290,13 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 
 # 📖 Educations
 - *2023.09 - (now)*, M.S. National Cheng Kung University (NCKU), the Institute of Data Science, Taiwan. 
-- *2019.09 - 2023.06*, B.S. Fu Jen Catholic University (FJCU), the Department of Statistics and Information Science, Taiwan. 
+- *2019.09 - 2023.06*, B.S. Fu Jen Catholic University (FJCU), the Department of Statistics and Information Science, Taiwan.
+  
+# 💼 Academic Services
+
+- *2024.05*, Reflections on Academic Competitions and Challenges, National Taiwan University of Science and Technology (NTUST), Taiwan.
+
+- * Conference paper Reviewer*, NTIRE-CVPR2024
 
 # 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
