@@ -24,6 +24,10 @@ I am currently a M.S. student with the <a href="https://sites.google.com/view/ac
 
 I received a B.S. degree at the Department of Statistics and Information Science, Fu Jen Catholic University (FJCU), Taiwan, in 2023. I was advised by Prof. Hao-Chiang Shao.
 
+<br><br>
+Find my resume <a href="docs/cmlee20240411.pdf" target="_blank">here</a> (last updated April 11, 2024).
+<br><br>
+
 My research interests include: 
 
 - **Computer Vision (Mainly focus on Low-level Vision)**
