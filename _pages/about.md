@@ -20,7 +20,7 @@ redirect_from:
 # 🧍‍♂️ Biography
 
 
-I am currently a M.S. student with the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am a passionate computer vision and deep learning researcher. I am fortunate to be advised by and work with Prof. <a href="https://cchsu.info/">Chih-Chung Hsu</a> (NCKU),  Prof. <a href="https://www.albany.edu/faculty/mchang2/">Ming-Ching Chang</a> (SUNY) and Prof. <a href="https://scholar.google.com/citations?hl=en&user=gMBvzGoAAAAJ&view_op=list_works&sortby=pubdate)">Xin Li</a> (SUNY). I have participated several projects which are related to CV/DL during my master program.
+I am currently a M.S. student with the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am a passionate computer vision and deep learning researcher. I am fortunate to be advised by and work with Prof. <a href="https://cchsu.info/">Chih-Chung Hsu</a> (NCKU). I have participated several projects which are related to CV/DL during my master program.
 
 I received a B.S. degree at the Department of Statistics and Information Science, Fu Jen Catholic University (FJCU), Taiwan, in 2023. I was advised by Prof. Hao-Chiang Shao.
 
@@ -35,6 +35,8 @@ I am also exploring other computer vision-related fields which are interested to
 In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and traveling🌐, welcome to talk about that with me if you have the same hobbyXD.
 
 # 🔥 News
+
+- *2024/04/11*: &nbsp;🎉🎉 Two paper are accepted by CVPRW 2024. 
 - *2024/03/23*: &nbsp;🎉🎉 I receive the 3rd place in COVID-19 detection Challange, in conjuncted with CVPR 2024 (DEF-AI-MIA workshop). 
 - *2024/03/13*: &nbsp;🎉🎉 One paper is accepted by TGRS (IF: 8.2, Rank 29/1409=2% in Electrical and Electronic Engineering).
 - *2024/03/06*: &nbsp;🎉🎉 I receive the 2nd Position in the Auto-WCEBleedGen Challenge Version V2, in conjunted with ICIP 2024.
@@ -49,12 +51,12 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPRW</div><img src='images/DRCT9.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW2024</div><img src='images/DRCT9.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DRCT: Saving Image Super-Resolution away from Information Bottleneck**
 
-Submitted to  IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Trends in Image Restoration and Enhancement (NTIRE) Workshop
+IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), New Trends in Image Restoration and Enhancement (NTIRE) Workshop
 
 Chih-Chung Hsu, **Chia-Ming Lee**, Yi-Shiuan Chou
 
@@ -104,12 +106,12 @@ Chih-Chung Hsu, Yu-Fan Lin, **Chia-Ming Lee**, Bo-Cheng Chiu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPRW</div><img src='images/4SFL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW2024</div><img src='images/4SFL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Closer Look at Spatial-Slice Features for COVID-19 Detection**
 
-Submitted to  IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR2024), Domain adaptation, Explainability, Fairness in AI for Medical Image Analysis (DEF-AI-MIA) Workshop
+IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), Domain adaptation, Explainability, Fairness in AI for Medical Image Analysis (DEF-AI-MIA) Workshop
 
 Chih-Chung Hsu, **Chia-Ming Lee**, Yang Fan Chiang, Chih-Yu Jiang, Shen-Chieh Tai, Chi-Han Tsai
 
@@ -126,7 +128,7 @@ Chih-Chung Hsu, **Chia-Ming Lee**, Yang Fan Chiang, Chih-Yu Jiang, Shen-Chieh Ta
 
 **Progressive Alignment with VLM-LLM Feature to Augment Defect Classification for the ASE Dataset**
 
-Submitted to  IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR2024), Multimodal Learning and Applications (MLA) Workshop
+Submitted to IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), Multimodal Learning and Applications (MLA) Workshop
 
 Chih-Chung Hsu, **Chia-Ming Lee**
 
@@ -180,12 +182,12 @@ Chih-Chung Hsu, Chih-Yu Jian, Eng-Shen Tu, **Chia-Ming Lee** and Guan-Lin Chen
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICME2024</div><img src='images/icme.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCVW2023</div><img src='images/icme.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MISS: Memory-efficient Instance Segmentation Framework By Visual Inductive Priors Flow Propagation**
 
-Submitted to IEEE International Conference on Multimedia and Expo (ICME2024), Niagra Falls, Canada
+IEEE/CVF International Conference on Computer Vision (ICCV2023), Visual Inductive Priors for Data-Efficient Deep Learning Workshop
 
 Chih-Chung Hsu, **Chia-Ming Lee**
 
@@ -211,23 +213,6 @@ Chih-Chung Hsu, Wen-Hai Tseng, Ming-Husan Wu, **Chia-Ming Lee** and Wei-Hao Huan
 - Knowledge Distillation
 - Autonomous Driving
 - 2D-Object Detection
-  
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to PAKDD2024</div><img src='images/pakdd.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**OCR is All you need: Importing Multi-Modality into Image-based Defect Detection System**
-
-Submitted to Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD2024), Taipei, Taiwan
-
-Chih-Chung Hsu, **Chia-Ming Lee**, Chun-Hung Sun and Kuang-Ming Wu 
-
-**Keywords**
-- Mulit-Modality Learning
-- Defect and Anomaly Detection
-- Data Mining
   
 </div>
 </div>
