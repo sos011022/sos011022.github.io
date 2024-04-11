@@ -142,24 +142,6 @@ Chih-Chung Hsu, **Chia-Ming Lee**
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TGRS</div><img src='images/CSAKD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**CSA-KD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Images Fusion**
-
-Submitted to IEEE Transactions on Geoscience and Remote Sensing
-
-Chih-Chung Hsu, Chih-Chien Ni, **Chia-Ming Lee** and Li-Wei Kang
-
-**Keywords**
-- Hypersepctral Image
-- Data Fusion
-- Knowledge Distillation
-- Image Super-Resolution
-  
-</div>
-</div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS2024</div><img src='images/RTCS.png' alt="sym" width="100%"></div></div>
@@ -254,7 +236,7 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 
 # 🎖 Honors and Awards
 - *2024.03*:  9th place (9/288), AI City Challenge Track 4: Road Object Detection in Fish-Eye Cameras, IEEE Computer Vision & Pattern Recognition (CVPR). 
-- *2024.03*:  **5th place (5/195**), NTIRE 2024 Image Super-Resolution (x4), IEEE Computer Vision & Pattern Recognition (CVPR). 
+- *2024.03*:  **6th place (6/195**), NTIRE 2024 Image Super-Resolution (x4), IEEE Computer Vision & Pattern Recognition (CVPR). 
 - *2024.03*:  **3rd place (3/21)**, COVID-19 Detection Challange, Domain adaptation, Explainability and Fairness in AI for Medical Image Analysis, IEEE Computer Vision & Pattern Recognition (CVPR). 
 - *2024.03*:  **2nd place (2/1200+)**, Auto-WCEBleedGen Challenge Version V2, IEEE International Conference on Image Processing (ICIP).
 - *2024.01*:  **(?/8) Ministry of Education Presidential Education Award Candicate in NCKU**.
@@ -269,7 +251,7 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 
 # 💼 Projects
 
-- *2024.4~*: Cybersecurity in distributed computing for medical imaging and/or remote sensing, NVIDIA Taiwan Research.
+- *2024.4~*: Cybersecurity in distributed computing for remote sensing, NVIDIA Taiwan Research.
 - *2024.4~*: AI Enhancing Substrate Manufacturing Yield with Optimized Process Factors, Corporate R&D, Advanced Semiconductor Engineering Group (ASE).
 - *2023.2~2024.1* :Substrate Drilling Scatter Plot Defect Detection, Corporate R&D, Advanced Semiconductor Engineering Group (ASE).
 - *2022.6~2022.12*: A Large Scale Whitebait Dataset for Long-tailed Distribution Image Classification and Domain Adaptation, Department of Statistic and Information Science, Fu Jen Catholic University. (Joint-project with Institute of Fisheries Science, National Taiwan University)
