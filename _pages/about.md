@@ -24,7 +24,7 @@ I am currently a M.S. student with the <a href="https://sites.google.com/view/ac
 
 I received a B.S. degree at the Department of Statistics and Information Science, Fu Jen Catholic University (FJCU), Taiwan, in 2023. I was advised by Prof. Hao-Chiang Shao.
 
-Find my resume <a href="https://drive.google.com/file/d/1dCPrr42mARD0-Juekseek--_S9v1haXP/view?usp=sharing" target="https://drive.google.com/file/d/1dCPrr42mARD0-Juekseek--_S9v1haXP/view?usp=sharing">here</a> (last updated April 11, 2024).
+Find my resume <a href="https://drive.google.com/file/d/1GoP7QoNSw2HM5uFkLd8ZpwSbn1-eyQfw/view?usp=sharing" target="https://drive.google.com/file/d/1GoP7QoNSw2HM5uFkLd8ZpwSbn1-eyQfw/view?usp=sharing">here</a> (last updated April 11, 2024).
 
 My research interests include: 
 
@@ -245,7 +245,7 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
   
 # 💼 Academic Services
 
-- *2024.05*, Reflections on Academic Competitions and Challenges, National Taiwan University of Science and Technology (NTUST), Taiwan.
+- *2024.05*, Experiences on Competitions and Challenges in International Conference, National Taiwan University of Science and Technology (NTUST)
 
 - *Conference paper Reviewer*, CVPR2024
 
