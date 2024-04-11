@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DRCT: Saving Image Super-Resolution away from Information Bottlenecks</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet"> <!-- Noto Sans font link here -->
+
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    font-family: 'Google Sans', sans-serif;
+}
+
+
+.header h1:first-child { /* 只針對第一個 <h1> 元素 */
+    font-size: 4em; /* 增加字體大小 */
+    font-weight: bold; /* 加粗 */
+    margin-bottom: 0; /* 減少到下一個元素的距離 */
+    letter-spacing: -2px; /* 稍微減少字母間距，視覺上更加緊密 */
+}
+
+.header {
+    text-align: center; /* Center align the header */
+    margin: 0; /* Remove default margins */
+    padding: 10px 0; /* Add some padding for spacing */
+    font-size: 3em; /* Increase font size */
+}
+    .authors {
+    padding: 0; /* Remove default padding */
+    margin: 20px 0; /* Add some margin for spacing */
+    font-size: 1.5em; /* Increase font size */
+}
+
+.author {
+    display: inline;
+    margin: 0 10px;
+}
+
+.author-name {
+    color: #4682b4;
+}
+
+.institute {
+    margin-top: 15px; /* 這會在機構信息和作者名稱之間增加空間 */
+    font-size: 0.8em; /* 根據需要調整字體大小 */
+    color: #333; /* 文本顏色 */
+    margin-bottom: 20px; /* 這是標題下方的空間，根據需要調整 */
+}
+
+
+.conference-title {
+    text-align: center;
+    font-size: 6em;
+    font-weight: bold;
+    margin-top: -80px; /* 減少或移除這個屬性以減少空間 */
+    margin-bottom: 60px; /* 這是標題下方的空間，根據需要調整 */
+    color: #333;
+}
+
+
+
+.button-list {
+    text-align: center;
+    margin: 20px 0;
+}
+.button {
+    padding: 50px 100px; /* 增加內邊距以進一步增大按鈕 */
+    font-family: 'Noto Sans', sans-serif; 
+    font-size: 40px; /* 增加字體大小為原來的兩倍 */
+    font-weight: bold; /* 字體加粗 */
+    text-transform: uppercase; /* 文本轉為大寫 */
+    letter-spacing: 2px; /* 增加字母間距 */
+    background-color: #4A4A4A; /* 按鈕背景色 */
+    color: white; /* 文本顏色 */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 40px; /* 增加邊距以增加按鈕間的距離 */
+    border: none;
+    border-radius: 100px; /* 增加圓角 */
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2); /* 增加陰影以獲得更深的效果 */
+    transition: background-color 0.3s, box-shadow 0.3s; /* 增加過渡效果 */
+    cursor: pointer; /* 鼠標懸停時的指針形狀 */
+}
+
+.button:hover {
+    background-color: #575757; /* 鼠標懸停時的背景色 */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* 鼠標懸停時的陰影 */
+}
+
+
+
+
+/* 字符和符號的顏色可能需要調整以適應背景 */
+.icon {
+    color: #D3D3D3; /* 符號的顏色 */
+    margin-right: 8px; /* 符號和文字之間的間隔 */
+}
+ 
+@media screen and (max-width: 768px) {
+  .abstract-content {
+    font-size: 1.5em; /* Larger font size on smaller screens */
+  }
+  .caption {
+    font-size: 1.5em; /* Larger font size on smaller screens */
+  }
+}
+
+
+
+
+.abstract-container {
+  background-color: transparent; /* Abstract background color */
+  padding: 20px; /* Abstract padding */
+  margin: 20px auto; /* Center the abstract container */
+  max-width: 60%; /* Control the width of the abstract container */
+
+  border: none;          /* Removes the border */
+  box-shadow: none;      /* Removes any shadow that might look like a border */
+  outline: none;         /* Removes the outline */
+}
+.abstract-title {
+  font-size: 65px; /* Title font size, adjust as needed */
+  font-weight: bold;
+  margin-bottom: 20px; /* Space below the title */
+  text-align: center;
+}
+
+.abstract-content {
+  line-height: 1.6; /* Line height for readability */
+  text-align: justify; /* Justify text for better formatting */
+  font-size: 53px; /* Content font size, adjust as needed */
+}
+
+.caption {
+  line-height: 1.6; /* Line height for readability */
+  text-align: justify; /* Justify text for better formatting */
+  font-size: 53px; /* Content font size, adjust as needed */
+
+
+}
+.bibtex-container {
+  width: 50%; /* Or whatever width you prefer */
+  height:20em;
+  margin: 0 auto; /* This will center the container */
+  padding: 5px; /* Add some padding inside the container */
+  background-color: #f8f8f8; /* A light background color */
+  border: 1px solid #e7e7e7; /* A subtle border */
+  border-radius: 4px; /* Rounded corners */
+  overflow: auto; /* To handle any overflow of content */
+  text-align: left;
+  font-size: 50px;
+  font-family: 'monospace', sans-serif;
+  line-height: 2; /* Increase line height for better readability */
+}
+
+.bibtex-title {
+  text-align: center; /* Keeps the text aligned to the left */
+  display: block; /* Ensures the title is on its own line */
+  margin-bottom: 10px; /* Space between title and BibTeX entry */
+  font-size: 60px;
+}
+
+
+.bibtex-section {
+  text-align: center; /* Center align the entire BibTeX section */
+}
+
+</style>
+</head>
+<body>
+<div class="header">
+    <h1>DRCT</h1>
+    <h1>Saving Image Super-Resolution away from Information Bottlenecks</h1>
+        <ul class="authors">
+            <li class="author">
+                <span class="author-name">Chih-Chung Hsu</span>, 
+                <span class="author-name">Chia-Ming Lee</span>, 
+                <span class="author-name">Yi-Shiuan Chou</span> 
+                <div class="institute">Institute of Data Science, National Cheng Kung University, Taiwan</div>
+ 
+
+            </li>
+            <!-- Add more authors here -->
+        </ul>
+    </div>
+    
+    <div class="button-list">
+        <h2 class="conference-title">CVPR 2024</h2>
+        <a href="#" class="button">arXiv</a>
+        <a href="#" class="button">Code</a>
+        <a href="#" class="button">Evaluation Results</a>
+        <!-- Add more buttons here -->
+    </div>
+
+
+
+<figure class="abstract-container" style="margin-top: 0;"> <!-- Remove top margin to avoid double spacing -->
+  <img src="1.png" alt="Descriptive text for the image" style="width:40%; height:auto; display: block; margin: auto;">
+  <figcaption class="abstract-content" style="margin-top: 40px;">
+    The feature map intensity on various benchmark datasets. We observed that feature map intensities decrease sharply at the end of SISR network, indicating potential information loss. In this paper, we propose DRCT to address this issue by enhancing receptive fields and adding dense-connections within residual blocks to mitigate information bottlenecks, thereby improving performance with a simpler model design.
+  </figcaption>
+</figure>
+
+
+
+<!-- Space between images -->
+<div style="height: 60px;"></div> <!-- Adjust the height as needed for more or less space -->
+
+
+    <!-- Abstract Section -->
+<div class="abstract-container">
+  <div class="abstract-title">Abstract</div>
+  <div class="abstract-content">
+    In recent years, Vision Transformer-based approaches for low-level vision tasks have achieved widespread success. Unlike CNN-based models, Transformers are more adept at capturing long-range dependencies, enabling the reconstruction of images utilizing non-local information. In the domain of super-resolution, Swin-transformer-based models have become mainstream due to their capability of global spatial information modeling and their shifting-window attention mechanism that facilitates the interchange of information between different windows. Many researchers have enhanced model performance by expanding the receptive fields or designing meticulous networks, yielding commendable results. However, we observed that it is a general phenomenon for the feature map intensity to be abruptly suppressed to small values towards the network’s end. This implies an information bottleneck and a diminishment of spatial information, implicitly limiting the model’s potential. To address this, we propose the Dense-residual-connected Transformer (DRCT), aimed at mitigating the loss of spatial information through dense-residual connections between layers, thereby unleashing the model’s potential and saving model away from information bottleneck. Experiment results indicate that our approach surpasses state-of-the-art methods on benchmarks dataset and performs commendably at NTIRE-2024 Image Super-Resolution (x4) Challenge.
+  </div>
+</div>
+
+<!-- Space between images -->
+<div style="height: 60px;"></div> <!-- Adjust the height as needed for more or less space -->
+
+<figure class="abstract-container" style="margin-top: 0;">
+  <img src="2.png" alt="Descriptive text for the image" style="width:100%; height:auto; display: block; margin: auto;">
+  <figcaption class="abstract-content" style="margin-top: 40px;">
+    The feature map visualization displays, from top to bottom, SwinIR, HAT, and DRCT, with positions further to the right representing deeper layers within the network. For both SwinIR and HAT, the intensity of the feature maps is significant in the shallower layers but diminishes towards the network’s end. We consider this phenomenon implies the loss of spatial information, leading to the limitation and information bottleneck with SISR tasks. (zoom in to better observe the color-bar besides feature maps.)
+  </figcaption>
+</figure>
+
+<!-- Space between images -->
+<div style="height: 120px;"></div> <!-- Adjust the height as needed for more or less space -->
+
+
+
+<figure class="abstract-container" style="margin-top: 0;">
+  <img src="table.png" alt="Descriptive text for the image" style="width:60%; height:auto; display: block; margin: auto;">
+  <figcaption class="abstract-content" style="margin-top: 40px;">
+    Quantitative comparison with the several peer-methods on benchmark datasets. "<span style="font-weight:bold;">†</span>" indicates that methods adopt pre-training strategy on ImageNet. "<span style="font-weight:bold;">‡</span>" represents that methods use same-task progressive-training strategy. The top three results are marked in <span style="font-weight:bold; color:red;">red</span>, <span style="font-weight:bold; color:blue;">blue</span>, and <span style="font-weight:bold; color:orange;">orange</span>, respectively.
+  </figcaption>
+</figure>
+
+
+<!-- Space between images -->
+<div style="height: 120px;"></div> <!-- Adjust the height as needed for more or less space -->
+
+
+<figure class="abstract-container" style="margin-top: 0;">
+  <img src="4.png" alt="Descriptive text for the image" style="width:40%; height:auto; display: block; margin: auto;">
+  <figcaption class="abstract-content" style="margin-top: 40px;">
+    The model complexity comparison between SwinIR, HAT, and proposed DRCT evaluated on Urban100 dataset.
+  </figcaption>
+</figure>
+
+
+<!-- Space between images -->
+<div style="height: 40px;"></div> <!-- Adjust the height as needed for more or less space -->
+
+
+<div class="bibtex-section">
+  <h2 class="bibtex-title">BibTeX</h2>
+  <div class="bibtex-container">
+     <pre> 
+      	@misc{hsu2024drct,
+      		title={DRCT: Saving Image Super-resolution away from Information Bottleneck}, 
+      		author={Chih-Chung Hsu and Chia-Ming Lee and Yi-Shiuan Chou},
+      		year={2024},
+      		eprint={2404.00722},
+      		archivePrefix={arXiv},
+      		primaryClass={cs.CV}
+	     }
+	</pre>
+  </div>
+</div>
+
+
+    <script>
+    var slideIndex = 1;
+    showSlides(slideIndex);
+
+    function plusSlides(n) {
+      showSlides(slideIndex += n);
+    }
+
+    function currentSlide(n) {
+      showSlides(slideIndex = n);
+    }
+
+    function showSlides(n) {
+      var i;
+      var slides = document.getElementsByClassName("slide");
+      if (n > slides.length) {slideIndex = 1}
+      if (n < 1) {slideIndex = slides.length}
+      for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";
+      }
+      slides[slideIndex-1].style.display = "flex";
+    }
+
+    // 添加自動播放功能
+    var slideInterval = setInterval(function(){ plusSlides(1); }, 4000); // 改變圖片每4秒
+
+    </script>
+
+</body>
+</html>
