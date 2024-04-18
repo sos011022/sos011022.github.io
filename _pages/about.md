@@ -96,7 +96,7 @@ Chih-Chung Hsu, Yu-Fan Lin, **Chia-Ming Lee**, Bo-Cheng Chiu
 
 IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR2024), Domain adaptation, Explainability, Fairness in AI for Medical Image Analysis (DEF-AI-MIA) Workshop
 
-Chih-Chung Hsu, **Chia-Ming Lee**, Yang Fan Chiang, Chih-Yu Jiang, Shen-Chieh Tai, Chi-Han Tsai
+Chih-Chung Hsu, **Chia-Ming Lee**, Yang Fan Chiang, Yi-Shiuan Chou, Chih-Yu Jiang, Shen-Chieh Tai, Chi-Han Tsai
 
 **Keywords**
 - Semi-supervised learning
