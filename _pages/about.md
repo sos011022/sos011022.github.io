@@ -66,10 +66,10 @@ Chih-Chung Hsu, **Chia-Ming Lee**, Yi-Shiuan Chou
 - Image Super-resolution
 - Information Bottleneck
 
-         <div class="links">
-            <a href="https://arxiv.org/abs/2404.00722" class="btn btn-sm z-depth-0"role="button" rel="external nofollow noopener" target="_blank">Arxiv</a>
-            <a href="https://github.com/ming053l/DRCT/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
-          </div>
+<div class="links">
+    <a href="https://arxiv.org/abs/2404.00722" class="btn btn-sm z-depth-0"role="button" rel="external nofollow noopener" target="_blank">Arxiv</a>
+    <a href="https://github.com/ming053l/DRCT/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
+</div>
 
 </div>
 </div>
