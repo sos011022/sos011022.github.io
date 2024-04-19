@@ -15,13 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-          <!-- Navbar Toggle -->
-          <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar top-bar"></span>
-            <span class="icon-bar middle-bar"></span>
-            <span class="icon-bar bottom-bar"></span>
-          </button>
+
 
 <span class='anchor' id='about-me'></span>
 
@@ -74,12 +68,10 @@ Chih-Chung Hsu, **Chia-Ming Lee**, Yi-Shiuan Chou
 - Image Super-resolution
 - Information Bottleneck
 
-
-          <!-- Links/Buttons -->
-          <div class="links">
-            <a href="https://arxiv.org/pdf/2404.00722.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
-            <a href="https://github.com/ming053l/DRCT" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
-          </div>
+  <div class="links">
+      <a href="https://arxiv.org/pdf/2404.00722.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
+      <a href="https://github.com/ming053l/DRCT" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
+  </div>
 
 </div>
 </div>
