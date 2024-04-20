@@ -67,10 +67,11 @@ Chih-Chung Hsu, **Chia-Ming Lee**, Yi-Shiuan Chou
 **Keywords**
 - Image Super-resolution
 - Information Bottleneck
-
   <div class="links">
       <a href="https://arxiv.org/pdf/2404.00722.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
-      <a href="https://github.com/ming053l/DRCT" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
+      <a href="https://arxiv.org/abs/2404.00722" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arxiv</a>
+      <a href="https://github.com/ming053l/DRCT" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a>
+      <a href="https://allproj002.github.io/drct.github.io/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Project page</a>
   </div>
 
 </div>
@@ -109,6 +110,12 @@ Chih-Chung Hsu, **Chia-Ming Lee**, Yang Fan Chiang, Yi-Shiuan Chou, Chih-Yu Jian
 - COVID-19 Recognition
 - Image/Video Processing and Understanding
 
+  <div class="links">
+      <a href="https://arxiv.org/abs/2404.01643.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
+      <a href="https://arxiv.org/abs/2404.01643" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arxiv</a>
+      <a href="https://github.com/ming053l/E2D" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a>
+      <a href="https://allproj001.github.io/cov19d.github.io/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Project page</a>
+  </div>
 </div>
 </div>
 
