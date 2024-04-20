@@ -153,7 +153,11 @@ Chih-Chung Hsu, Chih-Yu Jian, Eng-Shen Tu, **Chia-Ming Lee** and Guan-Lin Chen
 - Hypersepctral Image
 - Compression and Sensing
 - Image Restoration
-
+  
+  <div class="links">
+      <a href="https://drive.google.com/file/d/1JZjua0y8Ys4hzpsC_A9acraWJLEmUyOT/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10474407" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">IEEE Xplore</a>
+  </div>
 </div>
 </div>
 
