@@ -92,7 +92,9 @@ Chih-Chung Hsu, Yu-Fan Lin, **Chia-Ming Lee**, Bo-Cheng Chiu
 **Keywords**
 - Multi-task Learning
 - Medical Image
-
+  <div class="links">
+      <a href="https://github.com/VanLinLin/Auto-WCEBleedGen-Challenge-Version-V2" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a>
+  </div>
 </div>
 </div>
 
