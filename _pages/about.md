@@ -40,6 +40,7 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 
 # 🔥 News
 
+- *2024/05/15*: &nbsp;🎉🎉 I receive the 3rd in SMP Challenge in ACMMM 2024! 
 - *2024/04/11*: &nbsp;🎉🎉 Two paper are accepted by CVPRW 2024, see you in Seattle! 
 - *2024/03/23*: &nbsp;🎉🎉 I receive the 3rd place in COVID-19 detection Challange, in conjuncted with CVPR 2024 (DEF-AI-MIA workshop). 
 - *2024/03/13*: &nbsp;🎉🎉 One paper is accepted by TGRS (IF: 8.2, Rank 29/1409=2% in Electrical and Electronic Engineering).
@@ -54,6 +55,42 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 - *2023/4/15*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2023.
 
 # 📝 Selected Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TPAMI2024</div><img src='images/SELF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CSAKD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Image Fusion**
+
+Submitted to IEEE Transactions on Geoscience and Remote Sensing
+
+Chih-Chung Hsu,  Chih-Chien Ni, **Chia-Ming Lee**, Li-Wei Kang
+
+**Keywords**
+- Knowledge Distillation
+- Hyperspectral Image Fusion
+- Image Pan-sharping
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TPAMI2024</div><img src='images/CSALD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GRACE: Graph-Regularized Attentive Convolutional Entanglement with Laplacian Smoothing for Robust DeepFake Video Detection**
+
+Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+Chih-Chung Hsu, Shao-Ning Chen, Mei-Hsuan Wu, Yi-Fang Wang, **Chia-Ming Lee**, Yi-Shiuan Chou
+
+**Keywords**
+- Adversarial Attack
+- Robust DeepFake Detection
+- Graph Convolution Network
+- Forgery Detection
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW2024</div><img src='images/drct_fix.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -237,8 +274,9 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 </div>
 
 # 🎖 Honors and Awards
+- *2024.05*:  **3rd place**, Socia Media Prediction Challenge, ACM International Conference on Multimedia (ACMMM). 
 - *2024.03*:  9th place (9/288), AI City Challenge Track 4: Road Object Detection in Fish-Eye Cameras, IEEE Computer Vision & Pattern Recognition (CVPR). 
-- *2024.03*:  **6th place (6/195**), NTIRE 2024 Image Super-Resolution (x4), IEEE Computer Vision & Pattern Recognition (CVPR). 
+- *2024.03*:  **6th place (6/195)**, NTIRE 2024 Image Super-Resolution (x4), IEEE Computer Vision & Pattern Recognition (CVPR). 
 - *2024.03*:  **3rd place (3/21)**, COVID-19 Detection Challange, Domain adaptation, Explainability and Fairness in AI for Medical Image Analysis, IEEE Computer Vision & Pattern Recognition (CVPR). 
 - *2024.03*:  **2nd place (2/1200+)**, Auto-WCEBleedGen Challenge Version V2, IEEE International Conference on Image Processing (ICIP).
 - *2024.01*:  **(?/8) Ministry of Education Presidential Education Award Candicate in NCKU**.
