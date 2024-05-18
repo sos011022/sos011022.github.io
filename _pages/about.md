@@ -74,7 +74,7 @@ Chih-Chung Hsu,  Chih-Chien Ni, **Chia-Ming Lee**, Li-Wei Kang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TPAMI2024</div><img src='images/SELF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TPAMI2024</div><img src='images/GRACE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GRACE: Graph-Regularized Attentive Convolutional Entanglement with Laplacian Smoothing for Robust DeepFake Video Detection**
