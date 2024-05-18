@@ -57,7 +57,7 @@ In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and t
 # 📝 Selected Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TPAMI2024</div><img src='images/SELF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TGRS2024</div><img src='images/SELF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CSAKD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Image Fusion**
