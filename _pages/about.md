@@ -275,7 +275,7 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 </div>
 
 # 🎖 Honors and Awards
-- *2024.05*:  **3rd place**, Socia Media Prediction Challenge, ACM International Conference on Multimedia (ACMMM). 
+- *2024.05*:  **3rd place**, Socia Media Popularity Prediction Challenge, ACM International Conference on Multimedia (ACMMM). 
 - *2024.03*:  9th place (9/288), AI City Challenge Track 4: Road Object Detection in Fish-Eye Cameras, IEEE Computer Vision & Pattern Recognition (CVPR). 
 - *2024.03*:  **6th place (6/195)**, NTIRE 2024 Image Super-Resolution (x4), IEEE Computer Vision & Pattern Recognition (CVPR). 
 - *2024.03*:  **3rd place (3/21)**, COVID-19 Detection Challange, Domain adaptation, Explainability and Fairness in AI for Medical Image Analysis, IEEE Computer Vision & Pattern Recognition (CVPR). 
@@ -284,7 +284,7 @@ Chih-Chung Hsu, Chih-Yu Jian, **Chia-Ming Lee**, Chi-Han Tsai, Shen-Chieh Tai
 - *2024.01*:  6th place (6/195), SeaDroneSee Multi-Object Tracking and Re-Identification Challenge, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Workshop on Maritime Computer Vision (MaCVi).
 - *2023.12*:  **2nd place (2/129)**, Embedded AI Object Detection Model Design, PAIR-LITEON Competition, ACM International Conference on Multimedia Asia (MMAsia).
 - *2023.11*:  **Gold Medal Award (1/150+)**, SAS Hackathon, [Reported by 6+ domsetic media].
-- *2023.10*:  **Top Paper Award (3/700+)** , Socia Media Prediction Challenge, ACM International Conference on Multimedia (ACMMM).
+- *2023.10*:  **Top Paper Award (3/700+)** , Socia Media Popularity Prediction Challenge, ACM International Conference on Multimedia (ACMMM).
 - *2023.10*:  **Jury Prize (1/176)**, Visual Inductive Priors Workshop on Instance Segmentation Challenge, IEEE/CVF International Conference on Computer Vision (ICCV).
 - *2023.06*:  **Winner (1/18)**, COV19 Detection Challenge, AI-enabled Medical Image Analysis Workshop in IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP).
 - *2023.06*:  **The Highest Prize (1/96)**, International Competition Scholarship, Fu Jen Catholic University.
