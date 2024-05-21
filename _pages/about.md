@@ -30,9 +30,9 @@ Find my resume <a href="https://drive.google.com/file/d/1GoP7QoNSw2HM5uFkLd8ZpwS
 
 My research interests include: 
 
-- **Image/Video Processing**
-- **Multi-Media Security**
-- **Multi-Modal Learning**
+- **Image/Video Processing and Restoration**
+- **Multi-Media Information Security**
+- **Multi-Modal Learning and Modeling**
   
 I am also exploring other computer vision-related fields which are interested to me, such as Multi-Object Tracking, 3D-scene Reconstruction. I am actively seeking a collaboration. 
 
