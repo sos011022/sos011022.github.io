@@ -30,7 +30,7 @@ I possess a profound passion for Deep Learning, Computer Vision, Generative AI, 
 Moreover, I am also fascinated by the multimodal area, which combines multiple, different deep learning tasks to make a model learn more information from data to solve more complex problems.
 
 
-<!-- Find my resume <a href="https://drive.google.com/file/d/1GoP7QoNSw2HM5uFkLd8ZpwSbn1-eyQfw/view?usp=sharing" target="https://drive.google.com/file/d/1GoP7QoNSw2HM5uFkLd8ZpwSbn1-eyQfw/view?usp=sharing">here</a> (last updated April 11, 2024). -->
+Find my resume [here](https://drive.google.com/file/d/11A1VWRNgfMQPm9foiOFzzsUT466a5ZDh/view?usp=sharing) (last updated May 22, 2024).
 
 <!-- My research interests include: 
 
