@@ -30,7 +30,7 @@ I possess a profound passion for Deep Learning, Computer Vision, Generative AI, 
 Moreover, I am also fascinated by the multimodal area, which combines multiple, different deep learning tasks to make a model learn more information from data to solve more complex problems.
 
 
-Find my resume [here](https://drive.google.com/file/d/11A1VWRNgfMQPm9foiOFzzsUT466a5ZDh/view?usp=sharing) (last updated May 22, 2024).
+You can find my resume [here](https://drive.google.com/file/d/11A1VWRNgfMQPm9foiOFzzsUT466a5ZDh/view?usp=sharing) (last updated May 22, 2024).
 
 <!-- My research interests include: 
 
@@ -70,6 +70,22 @@ Chih-Chung Hsu, **Yu-Fan Lin**, Chia-Ming Lee, Bo-Cheng Chiu
   </div>
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ACMMM2024</div><img src='images/SMPD24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Revisiting CLIP-Features for Learning Multi-Modal Representations from Social Posts**
+
+Submitted to ACM International Conference on Multimedia (ACMMM2024)
+
+Chih-Chung Hsu, Chia-Ming Lee, **Yu-Fan Lin**, Yi-Shiuan Chou, Chih-Yu Jiang, Chi-Han Tsai
+
+**Keywords**
+- Vision-Language Model
+- Social Media Analysis
+</div>
+</div>
+
 
 # 🔨 Projects
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/OPIXray.jpg' alt="sym" width="100%"></div></div>
