@@ -30,22 +30,12 @@ I possess a profound passion for Deep Learning, Computer Vision, Generative AI, 
 Moreover, I am also fascinated by the multimodal area, which combines multiple, different deep learning tasks to make a model learn more information from data to solve more complex problems.
 
 
-You can find my resume [here](https://drive.google.com/file/d/11A1VWRNgfMQPm9foiOFzzsUT466a5ZDh/view?usp=sharing) (last updated May 22, 2024).
+You can find my resume [here](https://drive.google.com/file/d/144pJuSJKy3wadpG3LUrX2sZNe9qzYQxc/view?usp=sharing) (last updated May 22, 2024).
 
-<!-- My research interests include: 
-
-- **Image/Video Processing and Restoration**
-- **Multi-Media Information Security**
-- **Multi-Modal Learning and Modeling** -->
-  
-<!-- I am also exploring other computer vision-related fields which are interested to me, such as Multi-Object Tracking, 3D-scene Reconstruction. I am actively seeking a collaboration. 
-
-In addition, I also enjoy fishing🐬, boxing🥊, cooking🍲, baking🍞 and traveling🌐, welcome to talk about that with me if you have the same hobbyXD. -->
 
 # 🔥 News
 
 - *2024/05/15*: &nbsp;🎉🎉 I receive the 3rd place in SMP Challenge in ACMMM 2024!
-- *2024/03/06*: &nbsp;🎉🎉 I receive the 2nd place in the Auto-WCEBleedGen Challenge Version V2, in conjunted with ICIP 2024.
 - *2021/10/22*: &nbsp;🎉🎉 I receive the 2nd place in the Second XRun! Motion Sensing Technology Innovation Competition.
 - *2021/08/19*: &nbsp;🎉🎉 I receive the Titanium Medal Award in Green Idea Invention and Design Fair(best 10% teams).
 - *2020/12/26*: &nbsp;🎉🎉 I receive the Fourth Foxconn Scholarship recipient (one of only 30 students in Taiwan).
@@ -66,26 +56,6 @@ Chih-Chung Hsu, Chia-Ming Lee, **Yu-Fan Lin**, Yi-Shiuan Chou, Chih-Yu Jiang, Ch
 - Social Media Analysis
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP2024</div><img src='images/ICIP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Divide and Conquer: Grounding the Bleeding Areas with Two-Stage Model**
-
-IEEE International Conference on Image Processing (ICIP2024)
-
-Chih-Chung Hsu, **Yu-Fan Lin**, Chia-Ming Lee, Bo-Cheng Chiu
-
-**Keywords**
-- Multi-task Learning
-- Medical Image
-  <div class="links">
-      <a href="https://github.com/VanLinLin/Auto-WCEBleedGen-Challenge-Version-V2" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Github</a>
-  </div>
-</div>
-</div>
-
-
 
 
 # 🔨 Projects
