@@ -36,6 +36,7 @@ You can find my resume [here](https://drive.google.com/file/d/144pJuSJKy3wadpG3L
 # 🔥 News
 
 - *2024/05/15*: &nbsp;🎉🎉 I receive the 3rd place in SMP Challenge in ACMMM 2024!
+  *2024/03/06*: &nbsp;🎉🎉 I receive the 2nd Position in the Auto-WCEBleedGen Challenge Version V2, in conjunted with ICIP 2024.
 - *2021/10/22*: &nbsp;🎉🎉 I receive the 2nd place in the Second XRun! Motion Sensing Technology Innovation Competition.
 - *2021/08/19*: &nbsp;🎉🎉 I receive the Titanium Medal Award in Green Idea Invention and Design Fair(best 10% teams).
 - *2020/12/26*: &nbsp;🎉🎉 I receive the Fourth Foxconn Scholarship recipient (one of only 30 students in Taiwan).
@@ -100,12 +101,13 @@ Huang-Chu Huang, **Yu-Fan Lin**
 # 💼 Projects
 
 - *2024.4~*: Cybersecurity in distributed computing for remote sensing, NVIDIA Taiwan Research.
-- *2024.3~*: Scenario understanding and augmented intelligence, Industrial Technology Research Institute.
+- *2024.3~*: Scenario understanding and augmented intelligence, Industrial Technology Research Institute (ITRI).
 - *2023.2~2024.3*: Developing an Automatic Prohibited Items Detection Model for Airport Luggage X ray Images Based on the Integration of Convolutional Neural Networks and Visual Transformers, National Science and Technology Council (NSTC).
 - *2023.2~2024.3*: Plant Disease Analysis System, National Chung Hsing University. (Joint-project with Institute of Agronomy, National Chung Hsing University)
 
 # 📖 Educations
-- *2022.02 - (now)*, B.S. National Chung Hsing University (NCHU), the Deparement of Applied Mathematics, Taiwan. 
+- *2024.07 - (Now)*, M.S. National Cheng Kung University (NCKU), the Institute of Data Science, Taiwan.
+- *2022.02 - 2024.06*, B.S. National Chung Hsing University (NCHU), the Deparement of Applied Mathematics, Taiwan. 
 - *2020.09 - 2022.02*, B.S. National Kaohsiung University of Science and Technology (NKUST), the Department of Telecommunication Engineering, Taiwan.
   
 # 💼 Academic Services
