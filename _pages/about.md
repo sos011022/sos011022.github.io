@@ -36,7 +36,7 @@ You can find my resume [here](https://drive.google.com/file/d/144pJuSJKy3wadpG3L
 # 🔥 News
 
 - *2024/05/15*: &nbsp;🎉🎉 I receive the 3rd place in SMP Challenge in ACMMM 2024!
-  *2024/03/06*: &nbsp;🎉🎉 I receive the 2nd Position in the Auto-WCEBleedGen Challenge Version V2, in conjunted with ICIP 2024.
+- *2024/03/06*: &nbsp;🎉🎉 I receive the 2nd Position in the Auto-WCEBleedGen Challenge Version V2, in conjunted with ICIP 2024.
 - *2021/10/22*: &nbsp;🎉🎉 I receive the 2nd place in the Second XRun! Motion Sensing Technology Innovation Competition.
 - *2021/08/19*: &nbsp;🎉🎉 I receive the Titanium Medal Award in Green Idea Invention and Design Fair(best 10% teams).
 - *2020/12/26*: &nbsp;🎉🎉 I receive the Fourth Foxconn Scholarship recipient (one of only 30 students in Taiwan).
