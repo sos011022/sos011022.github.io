@@ -102,6 +102,7 @@ Huang-Chu Huang, **Yu-Fan Lin**
 
 # 💼 Projects
 
+- *2024.7~*: Brake system Defect Detection, Taiwan High Speed Rail.
 - *2024.4~*: Cybersecurity in distributed computing for remote sensing, NVIDIA Taiwan Research.
 - *2024.3~*: Scenario understanding and augmented intelligence, Industrial Technology Research Institute (ITRI).
 - *2023.2~2024.3*: Developing an Automatic Prohibited Items Detection Model for Airport Luggage X ray Images Based on the Integration of Convolutional Neural Networks and Visual Transformers, National Science and Technology Council (NSTC).
