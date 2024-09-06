@@ -35,6 +35,8 @@ You can find my resume [here](https://drive.google.com/file/d/144pJuSJKy3wadpG3L
 
 # 🔥 News
 
+- *2024/07/21*: &nbsp;🎉🎉 I receive the 1st performance in ICPR 2024 (Beyond Visible Spectrum: AI for Agriculture)!
+- *2024/06/06*: &nbsp;🎉🎉 I receive the Top Performance Award in ACMMM 2024 (Social Media Prediction Challenge)!
 - *2024/05/15*: &nbsp;🎉🎉 I receive the 3rd place in SMP Challenge in ACMMM 2024!
 - *2024/03/06*: &nbsp;🎉🎉 I receive the 2nd Position in the Auto-WCEBleedGen Challenge Version V2, in conjunted with ICIP 2024.
 - *2021/10/22*: &nbsp;🎉🎉 I receive the 2nd place in the Second XRun! Motion Sensing Technology Innovation Competition.
