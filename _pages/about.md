@@ -23,15 +23,15 @@ redirect_from:
 
 
 Hello,
-My name is Yu Fan (Van) Lin. I am a master's student with the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am actively participating in various competitions and research projects as part of the ACVLAB team.
+My name is Yu-Fan (Van) Lin. I am a master's student with the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am actively participating in various competitions and research projects as part of the ACVLAB team.
 
 Previously, I earned my bachelor's degree from the Department of Applied Mathematics at National Chung Hsing University (NCHU), where I engaged in multiple projects during my undergraduate studies. You can find my resume [here](https://drive.google.com/file/d/144pJuSJKy3wadpG3LUrX2sZNe9qzYQxc/view?usp=sharing) (last updated May 22, 2024). Currently, my research focuses on deep learning.
 
 My primary research interests include:
 * Multimodal Learning
 * Image/Video Processing
-* 
-I am also enthusiastic about exploring other cutting-edge fields in artificial intelligence and data science!
+
+I am also enthusiastic about exploring other cutting-edge fields in artificial intelligence and data science. I actively seek opportunities for collaboration—let’s connect and share ideas to push boundaries together!
 
 # 🔥 News
 
@@ -103,6 +103,17 @@ Chih-Chung Hsu, [Chia-Ming Lee](https://ming053l.github.io/), **Yu-Fan Lin**, [Y
 **Keywords**
 - Vision-Language Model
 - Social Media Analysis
+
+<div style="margin-top: 10px;">
+  <a href="https://arxiv.org/abs/2407.00556" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 15px; background-color: #007acc; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      arXiv
+    </button>
+  </a>
+</div>
+
+
+
 </div>
 </div>
 <!-- SMPD2024 -->
@@ -114,7 +125,7 @@ Chih-Chung Hsu, [Chia-Ming Lee](https://ming053l.github.io/), **Yu-Fan Lin**, [Y
 
 **Developing an Automatic Prohibited Items Detection Model for Airport Luggage X ray Images Based on the Integration of Convolutional Neural Networks and Visual Transformers**
 
-Chih-En Kuo, **Yu-Fan Lin**
+**Yu-Fan Lin**
 
 **Keywords**
 - Deformable convolutions
@@ -127,7 +138,7 @@ Chih-En Kuo, **Yu-Fan Lin**
 
 **Human Factors Biomedical System for Shooting Training**
 
-Huang-Chu Huang, **Yu-Fan Lin**
+**Yu-Fan Lin**
 
 **Keywords**
 - System integration
