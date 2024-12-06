@@ -23,15 +23,15 @@ redirect_from:
 
 
 Hello,
-My name is Van, I am a senior student at National Chung Shing University, Taichung, Taiwan, majoring in Applied Mathematics. I'm also a prospective master's student and with the with the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan, and I have begun to participate in various competitions and research in the ACVLAB.
+My name is Yu Fan (Van) Lin. I am a master's student with the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I am actively participating in various competitions and research projects as part of the ACVLAB team.
 
-I possess a profound passion for Deep Learning, Computer Vision, Generative AI, etc, with a special emphasis on Computer Vision.
+Previously, I earned my bachelor's degree from the Department of Applied Mathematics at National Chung Hsing University (NCHU), where I engaged in multiple projects during my undergraduate studies. You can find my resume [here](https://drive.google.com/file/d/144pJuSJKy3wadpG3LUrX2sZNe9qzYQxc/view?usp=sharing) (last updated May 22, 2024). Currently, my research focuses on deep learning.
 
-Moreover, I am also fascinated by the multimodal area, which combines multiple, different deep learning tasks to make a model learn more information from data to solve more complex problems.
-
-
-You can find my resume [here](https://drive.google.com/file/d/144pJuSJKy3wadpG3LUrX2sZNe9qzYQxc/view?usp=sharing) (last updated May 22, 2024).
-
+My primary research interests include:
+* Multimodal Learning
+* Image/Video Processing
+* 
+I am also enthusiastic about exploring other cutting-edge fields in artificial intelligence and data science!
 
 # 🔥 News
 
@@ -44,21 +44,68 @@ You can find my resume [here](https://drive.google.com/file/d/144pJuSJKy3wadpG3L
 - *2020/12/26*: &nbsp;🎉🎉 I receive the Fourth Foxconn Scholarship recipient (one of only 30 students in Taiwan).
 - *2018/06/02*: &nbsp;🎉🎉 I receive the 1st place in the Asian Robotic Athletic Competition.
 
-# 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ACMMM2024</div><img src='images/SMPD24.png' alt="sym" width="100%"></div></div>
+# 📝 Selected Publications
+<!-- promptHSI -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv2024</div><img src='images/promptHSI5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation**
+
+Chia-Ming Lee, Ching-Heng Cheng, **Yu-Fan Lin**, Yi-Ching Cheng, Wo-Ting Liao, [Chih-Chung Hsu](https://cchsu.info/), [Fu-En Yang](https://fuenyang1127.github.io/), [Yu-Chiang Frank Wang](https://vllab.ee.ntu.edu.tw/ycwang.html)
+
+**Keywords**
+
+* Hyperspectral Image Restoration
+* All-in-One Image Restoration
+* Text-Prompt Learning
+
+<div style="margin-top: 10px;">
+  <a href="https://arxiv.org/abs/2411.15922" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 15px; background-color: #007acc; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      arXiv
+    </button>
+  </a>
+</div>
+
+</div>
+</div>
+<!-- promptHSI -->
+
+
+<!-- RobustDGA -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv2024</div><img src='images/DGA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RobustDGA: Generalized Hyperspectral Image Fusion via High Frequency Information Sharing and Compensation**
+
+Chia-Ming Lee, Cheng-Jun Kang, Ching-Heng Cheng, **Yu-Fan Lin**, [Yi-Shiuan Chou](https://nelly0421.github.io/), [Chih-Chung Hsu](https://cchsu.info/), [Fu-En Yang](https://fuenyang1127.github.io/), [Yu-Chiang Frank Wang](https://vllab.ee.ntu.edu.tw/ycwang.html)
+
+**Keywords**
+
+* Hyperspectral Image Restoration
+* Robust Hyperspectral Image Fusion
+* Graph Neural Network
+</div>
+</div>
+<!-- RobustDGA -->
+
+
+<!-- SMPD2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM2024</div><img src='images/SMPD24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Revisiting CLIP-Features for Learning Multi-Modal Representations from Social Posts**
 
-Submitted to ACM International Conference on Multimedia (ACMMM2024)
+ACM International Conference on Multimedia (ACMMM2024)
 
-Chih-Chung Hsu, Chia-Ming Lee, **Yu-Fan Lin**, Yi-Shiuan Chou, Chih-Yu Jiang, Chi-Han Tsai
+Chih-Chung Hsu, [Chia-Ming Lee](https://ming053l.github.io/), **Yu-Fan Lin**, [Yi-Shiuan Chou](https://nelly0421.github.io/), Chih-Yu Jiang, Chi-Han Tsai
 
 **Keywords**
 - Vision-Language Model
 - Social Media Analysis
 </div>
 </div>
+<!-- SMPD2024 -->
 
 
 # 🔨 Projects
@@ -91,6 +138,8 @@ Huang-Chu Huang, **Yu-Fan Lin**
 
 
 # 🎖 Honors and Awards
+- *2024.07*: **Winner**, Beyond Visible Spectrum: AI for Agriculture Challenge, International Conference on Pattern Recognition (ICPR).
+- *2024.05*: **Top Performance Award**, Socia Media Popularity Prediction Challenge, ACM International Conference on Multimedia (ACMMM).
 - *2024.05*:  **3rd place**, Socia Media Popularity Prediction Challenge, ACM International Conference on Multimedia (ACMMM). 
 - *2024.03*: **2nd place (2/1200+)**, Auto-WCEBleedGen Challenge Version V2, IEEE International Conference on Image Processing (ICIP).
 - *2024.03*: Presidential Award, Department of Applied Mathematics (Data Science and Computing Program), National Chung Hsing University.
@@ -101,7 +150,6 @@ Huang-Chu Huang, **Yu-Fan Lin**
 - *2018.06*: **1st place (1/1500+)**, Asian Robotic Athletic Competition.
 
 # 💼 Projects
-
 - *2024.7~*: Brake system Defect Detection, Taiwan High Speed Rail.
 - *2024.4~*: Cybersecurity in distributed computing for remote sensing, NVIDIA Taiwan Research.
 - *2024.3~*: Scenario understanding and augmented intelligence, Industrial Technology Research Institute (ITRI).
