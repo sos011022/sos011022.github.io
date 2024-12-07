@@ -51,7 +51,7 @@ I am also enthusiastic about exploring other cutting-edge fields in artificial i
 
 **PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation**
 
-Chia-Ming Lee, Ching-Heng Cheng, **Yu-Fan Lin**, Yi-Ching Cheng, Wo-Ting Liao, [Chih-Chung Hsu](https://cchsu.info/), [Fu-En Yang](https://fuenyang1127.github.io/), [Yu-Chiang Frank Wang](https://vllab.ee.ntu.edu.tw/ycwang.html)
+[Chia-Ming Lee](https://ming053l.github.io/), Ching-Heng Cheng, **Yu-Fan Lin**, Yi-Ching Cheng, Wo-Ting Liao, [Chih-Chung Hsu](https://cchsu.info/), [Fu-En Yang](https://fuenyang1127.github.io/), [Yu-Chiang Frank Wang](https://vllab.ee.ntu.edu.tw/ycwang.html)
 
 **Keywords**
 
@@ -78,7 +78,7 @@ Chia-Ming Lee, Ching-Heng Cheng, **Yu-Fan Lin**, Yi-Ching Cheng, Wo-Ting Liao, [
 
 **RobustDGA: Generalized Hyperspectral Image Fusion via High Frequency Information Sharing and Compensation**
 
-Chia-Ming Lee, Cheng-Jun Kang, Ching-Heng Cheng, **Yu-Fan Lin**, [Yi-Shiuan Chou](https://nelly0421.github.io/), [Chih-Chung Hsu](https://cchsu.info/), [Fu-En Yang](https://fuenyang1127.github.io/), [Yu-Chiang Frank Wang](https://vllab.ee.ntu.edu.tw/ycwang.html)
+[Chia-Ming Lee](https://ming053l.github.io/), Cheng-Jun Kang, Ching-Heng Cheng, **Yu-Fan Lin**, [Yi-Shiuan Chou](https://nelly0421.github.io/), [Chih-Chung Hsu](https://cchsu.info/), [Fu-En Yang](https://fuenyang1127.github.io/), [Yu-Chiang Frank Wang](https://vllab.ee.ntu.edu.tw/ycwang.html)
 
 **Keywords**
 
@@ -98,7 +98,7 @@ Chia-Ming Lee, Cheng-Jun Kang, Ching-Heng Cheng, **Yu-Fan Lin**, [Yi-Shiuan Chou
 
 ACM International Conference on Multimedia (ACMMM2024)
 
-Chih-Chung Hsu, [Chia-Ming Lee](https://ming053l.github.io/), **Yu-Fan Lin**, [Yi-Shiuan Chou](https://nelly0421.github.io/), Chih-Yu Jiang, Chi-Han Tsai
+[Chih-Chung Hsu](https://cchsu.info/), [Chia-Ming Lee](https://ming053l.github.io/), **Yu-Fan Lin**, [Yi-Shiuan Chou](https://nelly0421.github.io/), Chih-Yu Jiang, Chi-Han Tsai
 
 **Keywords**
 - Vision-Language Model
