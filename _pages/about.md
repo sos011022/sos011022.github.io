@@ -34,7 +34,7 @@ My primary research interests include:
 I am also enthusiastic about exploring other cutting-edge fields in artificial intelligence and data science. I actively seek opportunities for collaboration—let’s connect and share ideas to push boundaries together!
 
 # 🔥 News
-- *2020/12/10*: &nbsp;🎉🎉 I received the 8th Foxconn Scholarship!
+- *2024/12/10*: &nbsp;🎉🎉 I received the 8th Foxconn Scholarship!
 - *2024/07/21*: &nbsp;🎉🎉 I received the 1st performance in ICPR 2024 (Beyond Visible Spectrum: AI for Agriculture)!
 - *2024/06/06*: &nbsp;🎉🎉 I received the Top Performance Award in ACMMM 2024 (Social Media Prediction Challenge)!
 - *2024/05/15*: &nbsp;🎉🎉 I received the 3rd place in SMP Challenge in ACMMM 2024!
@@ -149,7 +149,7 @@ ACM International Conference on Multimedia (ACMMM2024)
 
 
 # 🎖 Honors and Awards
-- *2020.12*: 8th Foxconn Scholarship recipient.
+- *2024.12*: 8th Foxconn Scholarship recipient.
 - *2024.07*: **Winner**, Beyond Visible Spectrum: AI for Agriculture Challenge, International Conference on Pattern Recognition (ICPR).
 - *2024.05*: **Top Performance Award**, Socia Media Popularity Prediction Challenge, ACM International Conference on Multimedia (ACMMM).
 - *2024.05*:  **3rd place**, Socia Media Popularity Prediction Challenge, ACM International Conference on Multimedia (ACMMM). 
