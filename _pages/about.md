@@ -38,11 +38,11 @@ I am also enthusiastic about exploring other cutting-edge fields in artificial i
 - *2024/07/21*: &nbsp;🎉🎉 I received the 1st performance in ICPR 2024 (Beyond Visible Spectrum: AI for Agriculture)!
 - *2024/06/06*: &nbsp;🎉🎉 I received the Top Performance Award in ACMMM 2024 (Social Media Prediction Challenge)!
 - *2024/05/15*: &nbsp;🎉🎉 I received the 3rd place in SMP Challenge in ACMMM 2024!
-- *2024/03/06*: &nbsp;🎉🎉 I received the 2nd Position in the Auto-WCEBleedGen Challenge Version V2, in conjunted with ICIP 2024.
-- *2021/10/22*: &nbsp;🎉🎉 I received the 2nd place in the Second XRun! Motion Sensing Technology Innovation Competition.
-- *2021/08/19*: &nbsp;🎉🎉 I received the Titanium Medal Award in Green Idea Invention and Design Fair(best 10% teams).
-- *2020/12/26*: &nbsp;🎉🎉 I received the 4th Foxconn Scholarship as one of only 30 recipients in Taiwan.
-- *2018/06/02*: &nbsp;🎉🎉 I received the 1st place in the Asian Robotic Athletic Competition.
+- *2024/03/06*: &nbsp;🎉🎉 I received the 2nd Position in the Auto-WCEBleedGen Challenge Version V2, in conjunted with ICIP 2024!
+- *2021/10/22*: &nbsp;🎉🎉 I received the 2nd place in the Second XRun! Motion Sensing Technology Innovation Competition!
+- *2021/08/19*: &nbsp;🎉🎉 I received the Titanium Medal Award in Green Idea Invention and Design Fair(best 10% teams)!
+- *2020/12/26*: &nbsp;🎉🎉 I received the 4th Foxconn Scholarship as one of only 30 recipients in Taiwan!
+- *2018/06/02*: &nbsp;🎉🎉 I received the 1st place in the Asian Robotic Athletic Competition!
 
 # 📝 Selected Publications
 <!-- promptHSI -->
