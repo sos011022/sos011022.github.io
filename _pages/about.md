@@ -34,15 +34,15 @@ My primary research interests include:
 I am also enthusiastic about exploring other cutting-edge fields in artificial intelligence and data science. I actively seek opportunities for collaboration—let’s connect and share ideas to push boundaries together!
 
 # 🔥 News
-
-- *2024/07/21*: &nbsp;🎉🎉 I receive the 1st performance in ICPR 2024 (Beyond Visible Spectrum: AI for Agriculture)!
-- *2024/06/06*: &nbsp;🎉🎉 I receive the Top Performance Award in ACMMM 2024 (Social Media Prediction Challenge)!
-- *2024/05/15*: &nbsp;🎉🎉 I receive the 3rd place in SMP Challenge in ACMMM 2024!
-- *2024/03/06*: &nbsp;🎉🎉 I receive the 2nd Position in the Auto-WCEBleedGen Challenge Version V2, in conjunted with ICIP 2024.
-- *2021/10/22*: &nbsp;🎉🎉 I receive the 2nd place in the Second XRun! Motion Sensing Technology Innovation Competition.
-- *2021/08/19*: &nbsp;🎉🎉 I receive the Titanium Medal Award in Green Idea Invention and Design Fair(best 10% teams).
-- *2020/12/26*: &nbsp;🎉🎉 I receive the Fourth Foxconn Scholarship recipient (one of only 30 students in Taiwan).
-- *2018/06/02*: &nbsp;🎉🎉 I receive the 1st place in the Asian Robotic Athletic Competition.
+- *2020/12/10*: &nbsp;🎉🎉 I received the 8th Foxconn Scholarship!
+- *2024/07/21*: &nbsp;🎉🎉 I received the 1st performance in ICPR 2024 (Beyond Visible Spectrum: AI for Agriculture)!
+- *2024/06/06*: &nbsp;🎉🎉 I received the Top Performance Award in ACMMM 2024 (Social Media Prediction Challenge)!
+- *2024/05/15*: &nbsp;🎉🎉 I received the 3rd place in SMP Challenge in ACMMM 2024!
+- *2024/03/06*: &nbsp;🎉🎉 I received the 2nd Position in the Auto-WCEBleedGen Challenge Version V2, in conjunted with ICIP 2024.
+- *2021/10/22*: &nbsp;🎉🎉 I received the 2nd place in the Second XRun! Motion Sensing Technology Innovation Competition.
+- *2021/08/19*: &nbsp;🎉🎉 I received the Titanium Medal Award in Green Idea Invention and Design Fair(best 10% teams).
+- *2020/12/26*: &nbsp;🎉🎉 I received the 4th Foxconn Scholarship as one of only 30 recipients in Taiwan.
+- *2018/06/02*: &nbsp;🎉🎉 I received the 1st place in the Asian Robotic Athletic Competition.
 
 # 📝 Selected Publications
 <!-- promptHSI -->
@@ -149,6 +149,7 @@ ACM International Conference on Multimedia (ACMMM2024)
 
 
 # 🎖 Honors and Awards
+- *2020.12*: 8th Foxconn Scholarship recipient.
 - *2024.07*: **Winner**, Beyond Visible Spectrum: AI for Agriculture Challenge, International Conference on Pattern Recognition (ICPR).
 - *2024.05*: **Top Performance Award**, Socia Media Popularity Prediction Challenge, ACM International Conference on Multimedia (ACMMM).
 - *2024.05*:  **3rd place**, Socia Media Popularity Prediction Challenge, ACM International Conference on Multimedia (ACMMM). 
@@ -157,7 +158,7 @@ ACM International Conference on Multimedia (ACMMM2024)
 - *2023.10*: Presidential Award, Department of Applied Mathematics (Data Science and Computing Program), National Chung Hsing University.
 - *2021.10*: **2nd place (2/30+)**, Second XRun! Motion Sensing Technology Innovation Competition.
 - *2021.08*: **Titanium Medal Award (Top 10%)**, Green Idea Invention and Design Fair.
-- *2020.12*: Fourth Foxconn Scholarship recipient.
+- *2020.12*: 4th Foxconn Scholarship recipient.
 - *2018.06*: **1st place (1/1500+)**, Asian Robotic Athletic Competition.
 
 # 💼 Projects
