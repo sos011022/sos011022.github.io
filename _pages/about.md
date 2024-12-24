@@ -35,6 +35,7 @@ I am also enthusiastic about exploring other cutting-edge fields in artificial i
 
 # 🔥 News
 - *2024/12/10*: &nbsp;🎉🎉 I received the 8th Foxconn Scholarship!
+- *2024/12/02*: &nbsp;🎉🎉 I received the Scholarship Nan Shan Life Insurance Company!
 - *2024/07/21*: &nbsp;🎉🎉 I received the 1st performance in ICPR 2024 (Beyond Visible Spectrum: AI for Agriculture)!
 - *2024/06/06*: &nbsp;🎉🎉 I received the Top Performance Award in ACMMM 2024 (Social Media Prediction Challenge)!
 - *2024/05/15*: &nbsp;🎉🎉 I received the 3rd place in SMP Challenge in ACMMM 2024!
@@ -150,16 +151,17 @@ ACM International Conference on Multimedia (ACMMM2024)
 
 # 🎖 Honors and Awards
 - *2024.12*: 8th Foxconn Scholarship recipient.
+- *2024.12*: Nan Shan Life Insurance Company Scholarship.
 - *2024.07*: **Winner**, Beyond Visible Spectrum: AI for Agriculture Challenge, International Conference on Pattern Recognition (ICPR).
 - *2024.05*: **Top Performance Award**, Socia Media Popularity Prediction Challenge, ACM International Conference on Multimedia (ACMMM).
 - *2024.05*:  **3rd place**, Socia Media Popularity Prediction Challenge, ACM International Conference on Multimedia (ACMMM). 
-- *2024.03*: **2nd place (2/1200+)**, Auto-WCEBleedGen Challenge Version V2, IEEE International Conference on Image Processing (ICIP).
+- *2024.03*: **Runner-up (2/1200+)**, Auto-WCEBleedGen Challenge Version V2, IEEE International Conference on Image Processing (ICIP).
 - *2024.03*: Presidential Award, Department of Applied Mathematics (Data Science and Computing Program), National Chung Hsing University.
 - *2023.10*: Presidential Award, Department of Applied Mathematics (Data Science and Computing Program), National Chung Hsing University.
-- *2021.10*: **2nd place (2/30+)**, Second XRun! Motion Sensing Technology Innovation Competition.
+- *2021.10*: **Runner-up (2/30+)**, Second XRun! Motion Sensing Technology Innovation Competition.
 - *2021.08*: **Titanium Medal Award (Top 10%)**, Green Idea Invention and Design Fair.
 - *2020.12*: 4th Foxconn Scholarship recipient.
-- *2018.06*: **1st place (1/1500+)**, Asian Robotic Athletic Competition.
+- *2018.06*: **Winner (1/1500+)**, Asian Robotic Athletic Competition.
 
 # 💼 Projects
 - *2024.7~*: Brake system Defect Detection, Taiwan High Speed Rail.
