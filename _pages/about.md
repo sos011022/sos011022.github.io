@@ -46,6 +46,33 @@ I am also enthusiastic about exploring other cutting-edge fields in artificial i
 - *2018/06/02*: &nbsp;🎉🎉 I received the 1st place in the Asian Robotic Athletic Competition!
 
 # 📝 Selected Publications
+<!-- HyFusion -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to IGARSS25</div><img src='images/HyFusionhpe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HyFusion: Enhanced Reception Field Transformer for Hyperspectral Image Fusion**
+
+[Chia-Ming Lee](https://ming053l.github.io/), **Yu-Fan Lin**, Yu-Hao Ho, [Li-Wei Kang](https://scholar.google.com/citations?user=QwSzhgEAAAAJ&hl=en), [Chih-Chung Hsu](https://cchsu.info/)
+
+**Keywords**
+
+* Hyperspectral Image Fusion
+* Data Efficiency
+* Reception Field
+
+<!-- <div style="margin-top: 10px;">
+  <a href="https://arxiv.org/abs/2411.15922" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 15px; background-color: #007acc; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      arXiv
+    </button>
+  </a>
+</div> -->
+
+</div>
+</div>
+<!-- promptHSI -->
+
+
 <!-- promptHSI -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv2024</div><img src='images/promptHSI5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -86,6 +113,16 @@ I am also enthusiastic about exploring other cutting-edge fields in artificial i
 * Hyperspectral Image Restoration
 * Robust Hyperspectral Image Fusion
 * Graph Neural Network
+
+<!-- <div style="margin-top: 10px;">
+  <a href="https://arxiv.org/abs/2411.15922" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 15px; background-color: #007acc; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      arXiv
+    </button>
+  </a>
+</div> -->
+
+
 </div>
 </div>
 <!-- RobustDGA -->
