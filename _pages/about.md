@@ -34,6 +34,7 @@ My primary research interests include:
 I am also enthusiastic about exploring other cutting-edge fields in artificial intelligence and data science. I actively seek opportunities for collaboration—let’s connect and share ideas to push boundaries together!
 
 # 🔥 News
+- *2025/01/21*: &nbsp;🎉🎉 One paper is accepted by ICCT-Pacific 2025.
 - *2024/12/10*: &nbsp;🎉🎉 I received the 8th Foxconn Scholarship!
 - *2024/12/02*: &nbsp;🎉🎉 I received the Scholarship Nan Shan Life Insurance Company!
 - *2024/07/21*: &nbsp;🎉🎉 I received the 1st performance in ICPR 2024 (Beyond Visible Spectrum: AI for Agriculture)!
