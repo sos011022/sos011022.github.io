@@ -48,7 +48,7 @@ I am also enthusiastic about exploring other cutting-edge fields in artificial i
 
 # 📝 Selected Publications
 <!-- S^3RNET -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to IGARSS25</div><img src='images/S3RNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS25</div><img src='images/S3RNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Robust Hyperspectral Image Panshapring via Sparse Spatial-Spectral Representation**
@@ -74,7 +74,7 @@ I am also enthusiastic about exploring other cutting-edge fields in artificial i
 
 
 <!-- HyFusion -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to IGARSS25</div><img src='images/HyFusionhpe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS25</div><img src='images/HyFusionhpe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **HyFusion: Enhanced Reception Field Transformer for Hyperspectral Image Fusion**
@@ -101,7 +101,7 @@ I am also enthusiastic about exploring other cutting-edge fields in artificial i
 
 
 <!-- promptHSI -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv2024</div><img src='images/promptHSI5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICCV25</div><img src='images/promptHSI5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation**
@@ -128,10 +128,10 @@ I am also enthusiastic about exploring other cutting-edge fields in artificial i
 
 
 <!-- RobustDGA -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv2024</div><img src='images/DGA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICCV25</div><img src='images/DGA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**RobustDGA: Generalized Hyperspectral Image Fusion via High Frequency Information Sharing and Compensation**
+**AuroraHSI: Degradation-agnostic Hyperspectral Image Fusion Transformer via Mask-guided Information Sharing and Compensation**
 
 [Chia-Ming Lee](https://ming053l.github.io/), Cheng-Jun Kang, Ching-Heng Cheng, **Yu-Fan Lin**, [Yi-Shiuan Chou](https://nelly0421.github.io/), [Chih-Chung Hsu](https://cchsu.info/), [Fu-En Yang](https://fuenyang1127.github.io/), [Yu-Chiang Frank Wang](https://vllab.ee.ntu.edu.tw/ycwang.html)
 
