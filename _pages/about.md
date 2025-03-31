@@ -35,7 +35,7 @@ I am also enthusiastic about exploring other cutting-edge fields in artificial i
 
 # 🔥 News
 - *2025/03/24*: &nbsp;🎉🎉 I achieved 3rd place in the CVPR 2025 NTIRE Workshop – Image Shadow Removal Challenge. See you in Nashville!
-- *2025/03/24*: &nbsp;🎉🎉 I achieved 6th place in the Image Reflection Removal Challenge at the CVPR 2025 NTIRE Workshop.
+- *2025/03/24*: &nbsp;🎉🎉 I achieved 6th place in the CVPR 2025 NTIRE Workshop – Image Reflection Removal Challenge.
 - *2025/03/15*: &nbsp;🎉🎉 Two paper are accepted by IGARSS 2025, see you in Brisbane!
 - *2025/01/21*: &nbsp;🎉🎉 One paper is accepted by ICCT-Pacific 2025.
 - *2024/12/10*: &nbsp;🎉🎉 I received the 8th Foxconn Scholarship!
