@@ -23,15 +23,13 @@ redirect_from:
 
 
 Hello,
-My name is Yu-Fan (Van) Lin. I am a master's student with the <a href="https://sites.google.com/view/acvlab/">Advanced Computer Vision Laboratory (ACVLAB)</a> at the Institute of Data Science, National Cheng Kung University (NCKU), Tainan, Taiwan. I actively participate in various competitions and research projects as part of the ACVLAB team.
+My name is Yu-Hsuan (Kevin) Lin. I am currently employed as an acoustic engineer, primarily focusing on simulating and optimizing electroacoustic products. With several years of hands-on experience and a solid foundation in acoustics, solid mechanics, fluid mechanics, and optimization, I am now actively seeking PhD opportunities in the field of aeroacoustics—a discipline that perfectly aligns with my passion and long-term aspirations.
 
-Previously, I earned my bachelor's degree from the Department of Applied Mathematics at National Chung Hsing University (NCHU), where I engaged in multiple projects during my undergraduate studies. You can find my resume [here](https://drive.google.com/file/d/144pJuSJKy3wadpG3LUrX2sZNe9qzYQxc/view?usp=sharing) (last updated May 22, 2024). Currently, my research focuses on deep learning.
+I hold a Master’s degree in Biomedical Engineering from National Taiwan University, where I designed and simulated ultrasonic stimulation devices, resulting in multiple publications. I also earned my Bachelor’s degree in Mechanical Engineering from National Taipei University of Technology, graduating in the top 7.4% of my class.
 
-My primary research interests include:
-* Multimodal Learning
-* Image/Video Processing
+Since 2023, I have further broadened my skill set through a series of certifications, including TU Delft’s Aeroacoustics and Urban Air Mobility programs, as well as Flowthermolab’s CFD and Aerospace training. During these programs, I also conducted independent projects related to flow-induced noise, deepening my commitment to developing next-generation noise mitigation technologies—particularly for Urban Air Mobility (UAM) applications.
 
-I am also enthusiastic about exploring other cutting-edge fields in artificial intelligence and data science. I actively seek opportunities for collaboration—let’s connect and share ideas to push boundaries together!
+You can view my full CV here (last updated May 22, 2024).
 
 # 🔥 News
 - *2025/03/24*: &nbsp;🎉🎉 I achieved 3rd place in the CVPR 2025 NTIRE Workshop – Image Shadow Removal Challenge. See you in Nashville!
